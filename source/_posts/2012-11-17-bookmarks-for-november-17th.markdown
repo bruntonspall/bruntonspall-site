@@ -12,10 +12,10 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=4760
 date: '2012-11-17 14:00:01 +0000'
 date_gmt: '2012-11-17 14:00:01 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- Twitter
-- Media
+- twitter
+- media
 - blog
 - bookmarked
 - crypto

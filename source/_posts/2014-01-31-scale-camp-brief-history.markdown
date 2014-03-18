@@ -12,8 +12,8 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=10138
 date: '2014-01-31 09:44:23 +0000'
 date_gmt: '2014-01-31 09:44:23 +0000'
 categories:
-- Technical
-- Featured
+- technical
+- featured
 tags: []
 comments: []
 ---

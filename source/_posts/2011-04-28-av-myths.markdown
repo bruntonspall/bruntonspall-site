@@ -12,12 +12,12 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=414
 date: '2011-04-28 00:10:24 +0000'
 date_gmt: '2011-04-28 00:10:24 +0000'
 categories:
-- Rants
-- Featured
+- rants
+- featured
 tags:
-- Yes2AV
-- No2AV
-- Politics
+- yes2av
+- no2av
+- politics
 comments:
 - id: 15
   author: Antony Green

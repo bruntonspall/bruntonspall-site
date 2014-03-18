@@ -12,11 +12,11 @@ wordpress_url: http://blog.brunton-spall.co.uk/2009/12/regular-expressions/
 date: '2009-12-18 22:57:30 +0000'
 date_gmt: '2009-12-18 22:57:30 +0000'
 categories:
-- Technical
+- technical
 tags:
-- Python
-- Open Source
-- Regular Expressions
+- python
+- open source
+- regular expressions
 - regex-builder
 comments: []
 ---

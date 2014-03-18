@@ -12,8 +12,8 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=9788
 date: '2013-12-31 18:56:10 +0000'
 date_gmt: '2013-12-31 18:56:10 +0000'
 categories:
-- Personal
-- Featured
+- personal
+- featured
 tags:
 - '2013'
 - newyear

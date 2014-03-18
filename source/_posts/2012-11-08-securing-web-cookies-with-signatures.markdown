@@ -12,11 +12,11 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=4613
 date: '2012-11-08 23:38:14 +0000'
 date_gmt: '2012-11-08 23:38:14 +0000'
 categories:
-- Technical
-- Featured
+- technical
+- featured
 tags:
-- Web Development
-- Security
+- web development
+- security
 - cookies
 comments:
 - id: 92

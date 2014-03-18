@@ -12,9 +12,9 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=5480
 date: '2013-01-16 23:00:15 +0000'
 date_gmt: '2013-01-16 23:00:15 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- Programming
+- programming
 - blog
 - bookmarked
 - journalism

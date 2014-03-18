@@ -12,10 +12,10 @@ wordpress_url: http://blog.brunton-spall.co.uk/2009/10/javascript-libraries-and-
 date: '2009-10-26 19:49:17 +0000'
 date_gmt: '2009-10-26 19:49:17 +0000'
 categories:
-- Technical
+- technical
 tags:
-- JQuery
-- Javascript
+- jquery
+- javascript
 comments: []
 ---
 <p>	A quick one here. &nbsp;I develop most of the functionality to this website when I am offline on the train. &nbsp;I wanted to use the jQuery library on my website, and the most performant way of doing so is to use Googles javascript mirror. (Yes I know about the privacy implications). &nbsp;However that doesn&#39;t work offline, rendering my website into non-jquery mode and making it a bugger to implement jquery features.</p>

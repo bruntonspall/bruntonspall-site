@@ -18,10 +18,10 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=2445
 date: '2012-04-09 14:57:47 +0000'
 date_gmt: '2012-04-09 14:57:47 +0000'
 categories:
-- Personal
-- Featured
+- personal
+- featured
 tags:
-- Personal
+- personal
 - dieting
 - diet
 - weight-loss

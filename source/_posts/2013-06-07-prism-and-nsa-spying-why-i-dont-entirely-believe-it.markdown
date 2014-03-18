@@ -12,9 +12,9 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=7286
 date: '2013-06-07 12:10:02 +0000'
 date_gmt: '2013-06-07 12:10:02 +0000'
 categories:
-- Technical
-- Rants
-- Featured
+- technical
+- rants
+- featured
 tags:
 - prism
 - nsa

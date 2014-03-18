@@ -12,9 +12,9 @@ wordpress_url: http://www.brunton-spall.co.uk/post/2013/08/06/bookmarks-for-augu
 date: '2013-08-06 07:00:00 +0000'
 date_gmt: '2013-08-06 07:00:00 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- Security
+- security
 - deployment
 - blog
 - bookmarked

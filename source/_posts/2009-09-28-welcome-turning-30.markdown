@@ -12,16 +12,16 @@ wordpress_url: http://blog.brunton-spall.co.uk/2009/09/welcome-turning-30/
 date: '2009-09-28 19:52:30 +0000'
 date_gmt: '2009-09-28 19:52:30 +0000'
 categories:
-- Technical
+- technical
 tags:
-- Django
-- The Guardian
-- JQuery
-- Diary
-- Fabric
-- Apache
-- Nginx
-- WSGI
+- django
+- the guardian
+- jquery
+- diary
+- fabric
+- apache
+- nginx
+- wsgi
 comments: []
 ---
 <p>Most people for their 30th birthday do something to recapture their youth. I went paintballing and created this site.</p>

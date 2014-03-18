@@ -12,9 +12,9 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=1238
 date: '2011-11-12 15:26:26 +0000'
 date_gmt: '2011-11-12 15:26:26 +0000'
 categories:
-- Technical
+- technical
 tags:
-- Facebook
+- facebook
 - bookmarklet
 - guardian
 comments:

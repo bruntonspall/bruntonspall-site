@@ -12,13 +12,13 @@ wordpress_url: http://blog.brunton-spall.co.uk/2009/10/building-personal-website
 date: '2009-10-09 23:18:57 +0000'
 date_gmt: '2009-10-09 23:18:57 +0000'
 categories:
-- Technical
+- technical
 tags:
-- Web Development
-- Twitter
-- The Future
-- Diary
-- History
+- web development
+- twitter
+- the future
+- diary
+- history
 comments: []
 ---
 <p>	One of the requested articles on this site was a comprehensive diary of what went into building this website, and why I did so.&nbsp; Since for shits and giggles wasn&#39;t exactly the answer you wanted, I thought I&#39;d elucidate on why I built this and how I went about it.</p>

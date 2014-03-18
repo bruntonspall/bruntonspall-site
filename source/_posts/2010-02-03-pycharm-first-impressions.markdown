@@ -12,11 +12,11 @@ wordpress_url: http://blog.brunton-spall.co.uk/2010/02/pycharm-first-impressions
 date: '2010-02-03 17:48:56 +0000'
 date_gmt: '2010-02-03 17:48:56 +0000'
 categories:
-- Technical
+- technical
 tags:
-- Django
-- Python
-- PyCharm
+- django
+- python
+- pycharm
 comments: []
 ---
 <p>	Did you see my link a few days ago, about <a href="http://www.jetbrains.net/confluence/display/PYH/JetBrains+PyCharm+Preview" target="_blank">PyCharm</a> being released by JetBrains? &nbsp;I hope so because it is a very interesting IDE for python and <a href="http://www.djangoproject.com" target="_blank">django</a> developers.</p>

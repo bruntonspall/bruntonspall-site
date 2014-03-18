@@ -12,10 +12,10 @@ wordpress_url: http://blog.brunton-spall.co.uk/2009/10/facebook-connect-and-iden
 date: '2009-10-19 23:45:48 +0000'
 date_gmt: '2009-10-19 23:45:48 +0000'
 categories:
-- Technical
+- technical
 tags:
-- Identity
-- Facebook
+- identity
+- facebook
 comments: []
 ---
 <p>	The more I think about Facebook Connect and identity the more worried I get. &nbsp;Lets start with my basic premise, your online identity is much too valuable to be controlled by a single company. &nbsp;We&#39;ve been there before, we&#39;ve seen what happens to the internet when a core technology is controlled by a single company, and Internet Explorer 6 was the result.</p>

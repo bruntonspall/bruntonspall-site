@@ -12,12 +12,12 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=6780
 date: '2013-04-30 13:32:13 +0000'
 date_gmt: '2013-04-30 13:32:13 +0000'
 categories:
-- Personal
-- Featured
+- personal
+- featured
 tags:
-- Business
+- business
 - learning
-- Books
+- books
 - management
 comments:
 - id: 65

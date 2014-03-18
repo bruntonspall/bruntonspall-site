@@ -12,10 +12,10 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=5193
 date: '2013-01-13 17:01:42 +0000'
 date_gmt: '2013-01-13 17:01:42 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- Twitter
-- Tutorial
+- twitter
+- tutorial
 - scala
 - blog
 - bookmarked

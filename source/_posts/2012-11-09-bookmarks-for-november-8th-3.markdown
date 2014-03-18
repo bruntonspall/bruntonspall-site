@@ -12,10 +12,10 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=4612
 date: '2012-11-09 00:00:19 +0000'
 date_gmt: '2012-11-09 00:00:19 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- News
-- Chrome
+- news
+- chrome
 - blog
 - bookmarked
 - journalism

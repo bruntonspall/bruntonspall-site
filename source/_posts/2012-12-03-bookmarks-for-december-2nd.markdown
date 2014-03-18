@@ -12,10 +12,10 @@ wordpress_url: http://www.brunton-spall.co.uk/post/2012/12/03/bookmarks-for-dece
 date: '2012-12-03 07:00:00 +0000'
 date_gmt: '2012-12-03 07:00:00 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- Programming
-- Python
+- programming
+- python
 - scala
 - blog
 - bookmarked

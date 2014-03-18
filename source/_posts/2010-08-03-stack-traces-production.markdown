@@ -12,10 +12,10 @@ wordpress_url: http://blog.brunton-spall.co.uk/2010/08/stack-traces-production/
 date: '2010-08-03 18:19:02 +0000'
 date_gmt: '2010-08-03 18:19:02 +0000'
 categories:
-- Technical
+- technical
 tags:
-- Web Development
-- Security
+- web development
+- security
 comments: []
 ---
 <p>	There have been a number of incidents recently where a public website I&#39;ve been using has gone wrong shown me a nice server provided stack trace on the screen. &nbsp;The most recent of these examples was the <a href="http://www.cineworld.co.uk">Cineworld website</a>.</p>

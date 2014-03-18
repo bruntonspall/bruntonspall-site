@@ -12,9 +12,9 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=4654
 date: '2012-11-10 22:00:43 +0000'
 date_gmt: '2012-11-10 22:00:43 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- Tutorial
+- tutorial
 - blog
 - bookmarked
 - beginner

@@ -12,7 +12,7 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=4635
 date: '2012-11-09 23:00:45 +0000'
 date_gmt: '2012-11-09 23:00:45 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
 - learning
 - blog

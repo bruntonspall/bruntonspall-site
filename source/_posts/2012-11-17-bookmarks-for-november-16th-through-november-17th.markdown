@@ -12,9 +12,9 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=4741
 date: '2012-11-17 12:00:47 +0000'
 date_gmt: '2012-11-17 12:00:47 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- News
+- news
 - blog
 - bookmarked
 - ministers

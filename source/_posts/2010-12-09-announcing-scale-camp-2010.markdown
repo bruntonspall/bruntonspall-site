@@ -14,14 +14,14 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=106
 date: '2010-12-09 12:08:03 +0000'
 date_gmt: '2010-12-09 12:08:03 +0000'
 categories:
-- From the guardian
+- from the guardian
 tags:
-- The Guardian Open Platform
-- Open Platform blog
-- Blogposts
-- Michael Brunton-Spall
-- Developer blog
-- Article
+- the guardian open platform
+- open platform blog
+- blogposts
+- michael brunton-spall
+- developer blog
+- article
 comments: []
 ---
 <p><a href="http://www.guardian.co.uk/open-platform/blog/scale-camp-2010">This article titled "Announcing Scale Camp 2010" was written by Michael Brunton-Spall, for guardian.co.uk on Wednesday 22nd September 2010 13.47 UTC</a></p>

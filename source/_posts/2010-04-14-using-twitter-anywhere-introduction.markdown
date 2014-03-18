@@ -12,13 +12,13 @@ wordpress_url: http://blog.brunton-spall.co.uk/2010/04/using-twitter-anywhere-in
 date: '2010-04-14 22:40:54 +0000'
 date_gmt: '2010-04-14 22:40:54 +0000'
 categories:
-- Technical
-- Featured
+- technical
+- featured
 tags:
-- Twitter
-- ! '@Anywhere'
-- Tutorial
-- Coding
+- twitter
+- ! '@anywhere'
+- tutorial
+- coding
 comments:
 - id: 18
   author: Twitter has 105m registered users, 600m searches per day.. and more numbers

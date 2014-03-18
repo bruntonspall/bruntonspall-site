@@ -12,11 +12,11 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=125
 date: '2011-01-26 21:30:51 +0000'
 date_gmt: '2011-01-26 21:30:51 +0000'
 categories:
-- Technical
-- Rants
+- technical
+- rants
 tags:
-- Python
-- WSGI
+- python
+- wsgi
 - deployment
 comments:
 - id: 5

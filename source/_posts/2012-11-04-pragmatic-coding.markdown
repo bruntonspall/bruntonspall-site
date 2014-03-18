@@ -12,8 +12,8 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=4540
 date: '2012-11-04 22:21:33 +0000'
 date_gmt: '2012-11-04 22:21:33 +0000'
 categories:
-- Technical
-- Featured
+- technical
+- featured
 tags:
 - pragmatism
 - appengine

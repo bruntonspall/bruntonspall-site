@@ -12,10 +12,10 @@ wordpress_url: http://blog.brunton-spall.co.uk/2009/10/future-web-apps-day-two/
 date: '2009-10-06 21:28:03 +0000'
 date_gmt: '2009-10-06 21:28:03 +0000'
 categories:
-- Conferences
+- conferences
 tags:
-- Web Development
-- FOWA
+- web development
+- fowa
 comments: []
 ---
 <p>	So what was the highlight of the second day of <a href="http://events.carsonified.com/fowa/2009/london/content">FOWA</a> for me?&nbsp; Believe it or not the marketing stuff.&nbsp; We were exhorted, repeatedly, that listening to your customers is the most important thing in business.&nbsp; Something that I&#39;ve forgotten, and something that can be applied to all areas of Software Development.&nbsp; The customer is king, fail to understand what he/she wants and you may as well be building sandcastles for all the good it will do when the tide comes in.&nbsp; </p>

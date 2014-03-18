@@ -14,21 +14,21 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=109
 date: '2011-01-25 12:10:22 +0000'
 date_gmt: '2011-01-25 12:10:22 +0000'
 categories:
-- Featured
-- From the guardian
+- featured
+- from the guardian
 tags:
-- The Guardian
-- Article
-- Gawker Media
-- Digital media
-- Media
-- Technology
-- Hacking
-- Jon Henley
-- Shortcuts
-- Features
-- Comment &amp; features
-- G2
+- the guardian
+- article
+- gawker media
+- digital media
+- media
+- technology
+- hacking
+- jon henley
+- shortcuts
+- features
+- comment &amp; features
+- g2
 comments: []
 ---
 <p><strong><em>I was foolish enough to talk at length about the gawker hacking story in the morning news conference a few weeks ago, and one of the side effects was that I was interviewed for G2 to give some advice on how to tighten up your password.</em></strong></p>

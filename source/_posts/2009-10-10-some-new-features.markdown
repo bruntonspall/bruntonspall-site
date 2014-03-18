@@ -12,13 +12,13 @@ wordpress_url: http://blog.brunton-spall.co.uk/2009/10/some-new-features/
 date: '2009-10-10 01:07:18 +0000'
 date_gmt: '2009-10-10 01:07:18 +0000'
 categories:
-- Technical
+- technical
 tags:
-- Web Development
-- Twitter
-- The Future
-- Discus
-- Diary
+- web development
+- twitter
+- the future
+- discus
+- diary
 comments: []
 ---
 <p>	So I&#39;ve finally added a couple of new features, so thought I&#39;d pop up a quick explanation of what I did and why.</p>

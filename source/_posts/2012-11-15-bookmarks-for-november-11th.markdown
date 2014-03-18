@@ -12,13 +12,13 @@ wordpress_url: http://www.brunton-spall.co.uk/post/2012/11/15/bookmarks-for-nove
 date: '2012-11-15 07:00:01 +0000'
 date_gmt: '2012-11-15 07:00:01 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- Programming
-- Tutorial
-- Python
-- Javascript
-- HTML5
+- programming
+- tutorial
+- python
+- javascript
+- html5
 - deployment
 - scala
 - blog

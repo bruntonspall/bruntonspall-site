@@ -12,10 +12,10 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=4750
 date: '2012-11-17 11:07:05 +0000'
 date_gmt: '2012-11-17 11:07:05 +0000'
 categories:
-- Conferences
-- Featured
+- conferences
+- featured
 tags:
-- Speaking
+- speaking
 comments: []
 ---
 <p><a href="http://www.flickr.com/photos/dcbriccetti/5707870920/"><img class="alignleft size-medium wp-image-4753" title="Michael Brunton-Spall speaking at BASE by Dave Briccetti" src="http://www.brunton-spall.co.uk/wp-content/uploads/2012/11/bruntonspall-speaking-300x225.jpg" alt="" width="300" height="225" /></a>Are you at a conference and bored? Do you start using the backchannel to start sniping at the presenters taste in clothing, presentation background, or speech idiosyncrasies? What you should be doing is asking yourself one very important question - What is this presenter doing that is not keeping your attention, or rather what could they do to keep your attention?</p>

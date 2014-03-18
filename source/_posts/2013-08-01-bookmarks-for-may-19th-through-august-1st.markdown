@@ -12,12 +12,12 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=7062
 date: '2013-08-01 17:02:44 +0000'
 date_gmt: '2013-08-01 17:02:44 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- Programming
-- Security
-- Python
-- Javascript
+- programming
+- security
+- python
+- javascript
 - blog
 - bookmarked
 - webdev

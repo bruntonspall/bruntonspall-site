@@ -12,10 +12,10 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=5539
 date: '2013-01-23 13:04:07 +0000'
 date_gmt: '2013-01-23 13:04:07 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- Twitter
-- Hacking
+- twitter
+- hacking
 - blog
 - bookmarked
 - startup

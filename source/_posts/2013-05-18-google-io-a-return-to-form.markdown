@@ -12,10 +12,10 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=7036
 date: '2013-05-18 10:16:10 +0000'
 date_gmt: '2013-05-18 10:16:10 +0000'
 categories:
-- Technical
-- Featured
+- technical
+- featured
 tags:
-- Google
+- google
 comments: []
 ---
 <p>[caption id="attachment_7038" align="alignleft" width="300"]<a href="http://www.flickr.com/photos/fumi/8748865155/"><img class="size-medium wp-image-7038" alt="Google IO Glass Office Hours - By Fumi" src="http://www.brunton-spall.co.uk/wp-content/uploads/2013/05/8748865155_d539b015ef_b-300x225.jpg" width="300" height="225" /></a> Google IO Glass Office Hours - By Fumi[/caption]</p>

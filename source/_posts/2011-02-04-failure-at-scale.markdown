@@ -12,12 +12,12 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=158
 date: '2011-02-04 14:01:16 +0000'
 date_gmt: '2011-02-04 14:01:16 +0000'
 categories:
-- Featured
+- featured
 tags:
-- Rant
-- Web Development
-- Performance
-- Scalability
+- rant
+- web development
+- performance
+- scalability
 comments:
 - id: 9
   author: Phillprice

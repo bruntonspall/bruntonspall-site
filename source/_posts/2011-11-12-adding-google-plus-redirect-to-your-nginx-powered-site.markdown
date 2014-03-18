@@ -12,11 +12,11 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=1230
 date: '2011-11-12 12:55:02 +0000'
 date_gmt: '2011-11-12 12:55:02 +0000'
 categories:
-- Technical
-- Featured
+- technical
+- featured
 tags:
-- Nginx
-- Google
+- nginx
+- google
 - plus
 comments:
 - id: 30

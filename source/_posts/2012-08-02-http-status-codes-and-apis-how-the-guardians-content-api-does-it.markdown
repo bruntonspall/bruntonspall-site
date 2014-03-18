@@ -19,14 +19,14 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=3445
 date: '2012-08-02 13:31:35 +0000'
 date_gmt: '2012-08-02 13:31:35 +0000'
 categories:
-- From the guardian
+- from the guardian
 tags:
-- Michael Brunton-Spall
-- Developer blog
-- Article
-- Technology
-- Internet
-- Web browsers
+- michael brunton-spall
+- developer blog
+- article
+- technology
+- internet
+- web browsers
 comments: []
 ---
 <p>I wrote on JSON and API's on the guardian developer blog recently.</p>

@@ -12,9 +12,9 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=639
 date: '2011-07-01 21:48:59 +0000'
 date_gmt: '2011-07-01 21:48:59 +0000'
 categories:
-- Featured
+- featured
 tags:
-- Google
+- google
 comments: []
 ---
 <p>So a couple of days ago Google launched <a href="http://plus.google.com" target="_blank">Google+</a>, a product that did not slip out quietly it seems despite Google’s intentions.</p>

@@ -12,10 +12,10 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=1026
 date: '2011-09-24 12:13:14 +0000'
 date_gmt: '2011-09-24 12:13:14 +0000'
 categories:
-- Rants
-- Featured
+- rants
+- featured
 tags:
-- Programming
+- programming
 - json
 - rants
 comments:

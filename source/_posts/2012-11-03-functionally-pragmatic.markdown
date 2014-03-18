@@ -12,10 +12,10 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=4508
 date: '2012-11-03 23:15:46 +0000'
 date_gmt: '2012-11-03 23:15:46 +0000'
 categories:
-- Conferences
-- Featured
+- conferences
+- featured
 tags:
-- Conference
+- conference
 - scala
 - functional programming
 - pragmatism

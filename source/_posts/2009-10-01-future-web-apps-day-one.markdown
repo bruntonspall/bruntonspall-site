@@ -12,14 +12,14 @@ wordpress_url: http://blog.brunton-spall.co.uk/2009/10/future-web-apps-day-one/
 date: '2009-10-01 22:44:45 +0000'
 date_gmt: '2009-10-01 22:44:45 +0000'
 categories:
-- Conferences
+- conferences
 tags:
-- Web Development
-- The Guardian
-- FOWA
-- Ubiquity
-- HTML5
-- Geek Nights
+- web development
+- the guardian
+- fowa
+- ubiquity
+- html5
+- geek nights
 comments: []
 ---
 <p>	So today I&#39;ve been down to London to attend the <a href="http://events.carsonified.com/fowa/2009/london">Future of Web Apps conference</a>, and it has been a fascinating day for me.</p>

@@ -12,12 +12,12 @@ wordpress_url: http://blog.brunton-spall.co.uk/2010/09/interview-questions-xor-t
 date: '2010-09-07 10:46:29 +0000'
 date_gmt: '2010-09-07 10:46:29 +0000'
 categories:
-- Technical
-- Featured
+- technical
+- featured
 tags:
-- Rant
-- Programming
-- Interview Questions
+- rant
+- programming
+- interview questions
 comments:
 - id: 22
   author: Test

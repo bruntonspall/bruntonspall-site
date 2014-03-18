@@ -12,13 +12,13 @@ wordpress_url: http://blog.brunton-spall.co.uk/2010/01/end-year-and-decade/
 date: '2010-01-01 15:13:46 +0000'
 date_gmt: '2010-01-01 15:13:46 +0000'
 categories:
-- Personal
+- personal
 tags:
-- Web Development
-- Python
-- The Guardian
-- Scale Camp
-- Personal
+- web development
+- python
+- the guardian
+- scale camp
+- personal
 comments: []
 ---
 <p>	So as 2009 draws to a close, I look back over the year and consider what has happened. &nbsp;With this being the end of the decade for everyone but pedants (that will be another year yet), I&#39;ve also thought about the previous decade.</p>

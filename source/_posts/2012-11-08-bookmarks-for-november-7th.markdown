@@ -12,11 +12,11 @@ wordpress_url: http://www.brunton-spall.co.uk/post/2012/11/08/bookmarks-for-nove
 date: '2012-11-08 07:00:00 +0000'
 date_gmt: '2012-11-08 07:00:00 +0000'
 categories:
-- Bookmarks
+- bookmarks
 tags:
-- HTML5
+- html5
 - scala
-- Apps
+- apps
 - blog
 - bookmarked
 - journalism

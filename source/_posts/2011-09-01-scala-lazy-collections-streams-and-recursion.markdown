@@ -12,7 +12,7 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=912
 date: '2011-09-01 17:08:22 +0000'
 date_gmt: '2011-09-01 17:08:22 +0000'
 categories:
-- Technical
+- technical
 tags:
 - scala
 - learning

@@ -14,15 +14,15 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=110
 date: '2011-01-25 16:10:27 +0000'
 date_gmt: '2011-01-25 16:10:27 +0000'
 categories:
-- From the guardian
+- from the guardian
 tags:
-- Twitter
-- Blogposts
-- Michael Brunton-Spall
-- Article
-- Technology
-- Martin Belam
-- Inside the Guardian blog
+- twitter
+- blogposts
+- michael brunton-spall
+- article
+- technology
+- martin belam
+- inside the guardian blog
 comments:
 - id: 12
   author: IT Companies in India

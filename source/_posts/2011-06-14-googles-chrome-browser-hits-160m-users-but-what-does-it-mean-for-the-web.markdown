@@ -14,16 +14,16 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=566
 date: '2011-06-14 12:30:38 +0000'
 date_gmt: '2011-06-14 12:30:38 +0000'
 categories:
-- From the guardian
+- from the guardian
 tags:
-- HTML5
-- Blogposts
-- Michael Brunton-Spall
-- Article
-- Technology
-- Technology blog
-- Google
-- Chrome
+- html5
+- blogposts
+- michael brunton-spall
+- article
+- technology
+- technology blog
+- google
+- chrome
 comments: []
 ---
 <p>&nbsp;</p>

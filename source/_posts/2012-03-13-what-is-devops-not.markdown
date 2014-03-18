@@ -20,7 +20,7 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=2153
 date: '2012-03-13 12:13:14 +0000'
 date_gmt: '2012-03-13 12:13:14 +0000'
 categories:
-- Featured
+- featured
 tags:
 - devops
 comments:

@@ -12,10 +12,10 @@ wordpress_url: http://blog.brunton-spall.co.uk/2009/10/christian-voice-stephen-g
 date: '2009-10-21 12:52:20 +0000'
 date_gmt: '2009-10-21 12:52:20 +0000'
 categories:
-- Rants
+- rants
 tags:
-- Rant
-- Theology
+- rant
+- theology
 comments: []
 ---
 <p>	I am a christian and I am proud of the fact. &nbsp;My faith makes it clear that I should be willing to share my faith whenever and wherever I can, but sometimes that can be made hard. &nbsp;Not because of beligerant athiests (most of the most hardcore athiests I know are lovely) but because there are some supposedly Christian organisations that portray the Christian faith in such a bad light that it makes me feel ashamed to be branded as a Christian.</p>

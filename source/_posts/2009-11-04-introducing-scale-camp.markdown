@@ -12,12 +12,12 @@ wordpress_url: http://blog.brunton-spall.co.uk/2009/11/introducing-scale-camp/
 date: '2009-11-04 16:56:49 +0000'
 date_gmt: '2009-11-04 16:56:49 +0000'
 categories:
-- Conferences
+- conferences
 tags:
-- Scale Camp
-- Conference
-- Performance
-- Scalability
+- scale camp
+- conference
+- performance
+- scalability
 comments: []
 ---
 <p>	I&#39;ve been to a fair few conferences recently, and something that has struck me is the large number of people who are dealing with similar issues. &nbsp;How to deal with large numbers of users. how to scale their website to handle peak loads, how to identify what capacity they have for peak loads and so on. &nbsp;The problem here is that although people are talking about it at conferences, and there are a few books around, there isn&#39;t anything dedicated entirely to performance and scalability. &nbsp;The only thing I could find was the <a href="http://en.oreilly.com/velocity2009">Velocity</a> conference, run by O&#39;Reilly over in the states, but over here in London? &nbsp;Nothing that I could find.</p>

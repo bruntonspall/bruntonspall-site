@@ -15,26 +15,26 @@ wordpress_url: http://www.brunton-spall.co.uk/?p=1507
 date: '2012-01-09 11:20:16 +0000'
 date_gmt: '2012-01-09 11:20:16 +0000'
 categories:
-- From the guardian
+- from the guardian
 tags:
-- Twitter
-- Michael Brunton-Spall
-- Technology
-- Google
-- Tech Weekly
-- Social media
-- Social networking
-- Charles Arthur
-- Josh Halliday
-- Books
-- Internet
-- Tablet computers
-- Microsoft
-- Rupert Murdoch
-- Mobile phones
-- iPlayer
-- Apps
-- Audio
+- twitter
+- michael brunton-spall
+- technology
+- google
+- tech weekly
+- social media
+- social networking
+- charles arthur
+- josh halliday
+- books
+- internet
+- tablet computers
+- microsoft
+- rupert murdoch
+- mobile phones
+- iplayer
+- apps
+- audio
 comments: []
 ---
 <p>I blathered on the podcast for a bit again.</p>
