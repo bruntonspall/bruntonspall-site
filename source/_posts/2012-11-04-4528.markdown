@@ -1,0 +1,17 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Michael Brunton-Spall
+author_login: bruntonspall
+author_email: michael@brunton-spall.co.uk
+author_url: http://www.brunton-spall.co.uk
+wordpress_id: 4528
+wordpress_url: http://www.brunton-spall.co.uk/?p=4528
+date: '2012-11-04 02:02:00 +0000'
+date_gmt: '2012-11-04 02:02:00 +0000'
+categories: []
+tags: []
+comments: []
+---
+<p>Stuff I’ve written that has appeared in the guardian</p>

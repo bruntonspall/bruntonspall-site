@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Test Post"
+date: 2014-03-17 22:02:10 +0000
+comments: true
+categories: 
+---
+
+This is a test post to see how well the new repsonseive theme works.
+:wq
+

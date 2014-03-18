@@ -1,0 +1,41 @@
+---
+layout: page
+status: publish
+published: true
+title: About Me
+author: Michael Brunton-Spall
+author_login: bruntonspall
+author_email: michael@brunton-spall.co.uk
+author_url: http://www.brunton-spall.co.uk
+wordpress_id: 2
+wordpress_url: http://blog.brunton-spall.co.uk/?page_id=2
+date: '2010-10-19 22:43:08 +0000'
+date_gmt: '2010-10-19 22:43:08 +0000'
+categories: []
+tags: []
+comments:
+- id: 118
+  author: Sergii
+  author_email: ses.box@gmail.com
+  author_url: ''
+  date: '2013-11-09 21:51:00 +0000'
+  date_gmt: '2013-11-09 21:51:00 +0000'
+  content: ! '<p>fyi: I went here because It was marked as "most popular" in the right
+    panel, was curious why.  That might explain you this human-behaviour pattern :)</p>
+
+'
+---
+<p>Hi there, welcome to my blog.</p>
+<p>This blog is mostly rantings and occasional thoughtful musings from me, Michael Brunton-Spall.</p>
+<p>For some reason you've come to this page to find more out about me, I'm not entirely sure what you think you'll find, but here goes.</p>
+<p>&nbsp;</p>
+<p>I work for the <a href="http://digital.cabinetoffice.gov.uk/" target="_blank">Government Digital Service</a>, part of Her Majesty's Government's in the Cabinet Office.  I work as a Technical Architect, which means I'm part of the team responsible for making <a href="https://www.gov.uk/transformation" target="_blank">"Digital services so good people prefer to use them"</a>, not exactly a simple goal, but a worthwhile one.</p>
+<p>Previously I worked for the Guardian newspaper as a Team Lead for the Content API and Developer Advocate.  I made the technical decisions about the architecture and priorities of a team of developers, and I spoke at events about the Guardian, the Content-API.</p>
+<p>I worked for the Guardian for 6 years (2007-2013), as Developer, Tech Lead and Developer Advocate, and I enjoyed my job immensely.  The newspaper industry went through and continues to go through some massive changes and it was exciting to be part of that, to be able to see it from the inside, and to feel like some of the things that we were doing was paving the way for the future of news.</p>
+<p>Previously I've worked in touchscreen bingo, I've been worked in the games industry as a network programmer, writing lobbying and multiplayer game code for Xbox and PSP titles, I've worked in the finance industry, building a low latency, high throughput webserver for delivering updating stock ticker information to traders, and I worked for myself for a year very badly.</p>
+<p>I program in whatever language is most appropriate to the problem, with some experience in C, C++ and Java, but my main languages are Python, Scala, HTML/Javascript, CoffeeScript and shell scripts.  I probably know more languages than that, but I don't really care to worry too much about adding BAT files, SQL, bash scripts, perl and all the other miscellaneous languages down.  I'm a programming polyglot, so language tends not to be an issue anymore.</p>
+<p>I believe in using appropriate technologies rather than single golden hammer rule, so I have a passing familiarity with most major web technologies, from Rails and Haml, to Scala and Twirl, from Python and Django, to Java, Spring and Hibernate.  I program databases such as Oracle, MySQL and PostgresQL as well as NoSQL databases like BigTable, MongoDB, Redis and so forth.</p>
+<p>&nbsp;</p>
+<p>From a personal level, I live in Cambridge with my wife and 2 young children, Aristotle and Daedalus.  I enjoy hacking on computer programs, reading and playing games in what little spare time I have left over.</p>
+<p>If you want to contact me, then please feel free to email me on michael@brunton-spall.co.uk, or contact me via Social Media, I'm generally @bruntonspall everywhere.</p>
+<p>I'm available for keynotes and conferences, where I tend to be opinionated and loud.</p>
