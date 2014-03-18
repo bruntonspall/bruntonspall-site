@@ -36,6 +36,7 @@ $header-padding-bottom: 1.5em !default;
   &.thirds section {
     width: 30%;
     margin-left: 5%;
+    float: left;
     &.first {
       margin-left: 0;
       clear: both;
@@ -189,4 +190,3 @@ body.sidebar-footer {
     ul, ol { margin-left: 0; }
   }
 }
-
