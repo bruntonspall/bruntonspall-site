@@ -20,6 +20,7 @@ comments: []
 ---
 <p>	There have been a number of incidents recently where a public website I&#39;ve been using has gone wrong shown me a nice server provided stack trace on the screen. &nbsp;The most recent of these examples was the <a href="http://www.cineworld.co.uk">Cineworld website</a>.</p>
 <p>	This is really really bad for a number of reasons.</p>
+<!--more-->
 <h2>	1. It&#39;s a bad user experience</h2>
 <p>	My wife was using the cineworld website when it returned the error page. &nbsp;Since she doesn&#39;t use the Apple Mac a lot she didn&#39;t know what was wrong, she told me that something was wrong with internet connection. &nbsp;Since Chrome does display a strange error page when the internet is not available this is a perfectly valid assumption. &nbsp;In fact it appears to be everybody&#39;s assumption that when you hit a url that if you see any technical text it&#39;s coming from your local computer rather than the website. &nbsp;Normal non geek people don&#39;t think that websites can serve one page fine and fail when you follow a link.</p>
 <h2>	2. It reveals that you are having problems</h2>

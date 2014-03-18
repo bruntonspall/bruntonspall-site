@@ -38,6 +38,8 @@ tags:
 comments: []
 ---
 <p>I blathered on the podcast for a bit again.</p>
+<!--more-->
+
 <hr><!-- GUARDIAN WATERMARK -->
 <p><a href="http://www.theguardian.com/technology/blog/audio/2012/jan/03/social-media-socialnetworking"><img class="alignright" src="http://image.guardian.co.uk/sys-images/Guardian/Pix/pictures/2010/03/01/poweredbyguardianBLACK.png" alt="Powered by Guardian.co.uk" width="140" height="45" />This article titled "Tech Weekly podcast: when books go social" was written by Presented by Charles Arthur and produced by Matt Hill, for theguardian.com on Tuesday 3rd January 2012 17.36 UTC</a></p>
 <p><img src="http://hits.theguardian.com/b/ss/guardiangu-api/1/H.20.3/98867?ns=guardian&amp;pageName=Tech+Weekly+podcast%3A+when+books+go+social+Audio+1683419&amp;ch=Technology&amp;c2=67197&amp;c4=Technology%2CSocial+media%2CSocial+networking%2CBooks%2CInternet%2CGoogle+%28Technology%29%2CTablet+computers%2CMicrosoft+%28Technology%29%2CRupert+Murdoch+%28Media%29%2CTwitter+%28Technology%29%2CMobile+phones+%28Technology%29%2CiPlayer%2CApps&amp;c3=theguardian.com&amp;c6=Presented+by+Charles+Arthur+and+produced+by+Matt+Hill&amp;c7=12-Jan-03&amp;c8=1683419&amp;c9=Audio" width="1" height="1" />

@@ -80,6 +80,7 @@ comments:
     Name: String<br />
     Published: Date/Time</p>
 <p>My position on this is simple, in an API (we'll come back to internal design later), an ID should *always* be of String type.</p>
+<!--more-->
 <p>So why is this a big deal?  I mean you implement this with a database table with autoincrement right, so it is a number underneath?</p>
 <p>There's a few issues with this and I'll deal with them in reverse stupidity order.</p>
 <p>Numbers are more than identifiers<br />

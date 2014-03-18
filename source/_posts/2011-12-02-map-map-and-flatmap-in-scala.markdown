@@ -255,6 +255,8 @@ comments:
 <p>[caption id="attachment_1351" align="alignnone" width="300"]<a href="http://www.brunton-spall.co.uk/wp-content/uploads/2011/12/1464056042_169a1b6a14_z.jpeg"><img class="size-medium wp-image-1351" title="Scala (stairs) by Paolo Campioni" alt="" src="http://www.brunton-spall.co.uk/wp-content/uploads/2011/12/1464056042_169a1b6a14_z-300x199.jpg" width="300" height="199" /></a> Scala (stairs) by Paolo Campioni[/caption]</p>
 <p>One of the things I like about Scala is it's collections framework. As a non CS graduate I only very lightly covered functional programming at university and I'd never come across it until Scala. One the benefits of Scala is that the functional programming concepts can be introduced slowly to the programmer. One of the first places you'll start to use functional constructs is with the collections framework.</p>
 <p>Chances are your first collection will be a list of items and we might want to apply a function to each item in the list in some way.</p>
+<!--more-->
+
 <p>Map works by applying a function to each element in the list.</p>
 <pre>
 scala&gt; val l = List(1,2,3,4,5)

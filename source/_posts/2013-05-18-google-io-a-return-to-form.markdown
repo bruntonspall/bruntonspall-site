@@ -22,6 +22,7 @@ comments: []
 <p>Google IO Keynote was watched by nearly a million people, six thousand of them in the auditorium, and the sense of disappointment in some cases was palpable.</p>
 <p>Already we are seeing pundits talking about how Google didn't make any really big announcements, that they didn't give away enough free stuff, and that Google IO isn't as good as last year.</p>
 <p>I believe that Google is simply returning to form, in that IO and Google developer relations is about developers, APIs and services, not products and people.</p>
+<!--more-->
 <p>While Google was focusing in on cars, glass and home automation, IO became a conference that was about announcing consumer grade products, many of which never materialised or were of interest to developers. It was hard to know what APIs existed or what could be done with them, and it became increasingly fragmented dealing with Google itself.</p>
 <p>Google took the chance to address this directly in the keynote this year. Each announcement was either focused on developers and what developers can do with the ecosystem that Google has built, or was focused on a clear user focused service, Google Play Music All Access for example.</p>
 <p>The announcements that Google did make are massive from a developer view. There will be more cohesion between the services, and we're seeing a refocusing of the Google ecosystem on web based services.</p>

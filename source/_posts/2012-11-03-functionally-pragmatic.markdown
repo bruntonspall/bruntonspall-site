@@ -23,6 +23,7 @@ comments: []
 ---
 <p>[caption id="attachment_4516" align="alignleft" width="300"]<a href="http://www.brunton-spall.co.uk/wp-content/uploads/2012/11/mbs-1024.jpg"><img class="size-medium wp-image-4516" title="Michael Brunton-Spall" src="http://www.brunton-spall.co.uk/wp-content/uploads/2012/11/mbs-1024-300x199.jpg" alt="Michael Brunton-Spall by Adewale Oshineye" width="300" height="199" /></a> Michael Brunton-Spall by Adewale Oshineye[/caption]</p>
 <p>I was lucky enough to <a href="https://speakerdeck.com/bruntonspall/functionally-pragmatic-fp-days-cambridge-2012" target="_blank">give the keynote</a> at <a href="http://www.fpdays.net/fpdays2012/" target="_blank">FP Days Cambridge</a> last week, where I was able to wax enthusiastically about functional programming and the future of software development.</p>
+<!--more-->
 <p>The slides themselves are up on SpeakerDeck, and there's a video that will be coming out in a few months.  In the meantime here's a very brief overview of my thoughts.</p>
 <p>One of my concerns when I was asked, was that I felt that the functional community can be a little over focused on the academic.  This isn't actually necessarily true, but because it's a preconceived notion for myself (and other developers), it can be difficult to break.</p>
 <p>My talk was therefore aimed at talking about how functional languages have a role as pragmatic languages, what that actually means, and why it's important.</p>

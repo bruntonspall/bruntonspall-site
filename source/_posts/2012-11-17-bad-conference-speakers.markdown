@@ -21,6 +21,7 @@ comments: []
 <p><a href="http://www.flickr.com/photos/dcbriccetti/5707870920/"><img class="alignleft size-medium wp-image-4753" title="Michael Brunton-Spall speaking at BASE by Dave Briccetti" src="http://www.brunton-spall.co.uk/wp-content/uploads/2012/11/bruntonspall-speaking-300x225.jpg" alt="" width="300" height="225" /></a>Are you at a conference and bored? Do you start using the backchannel to start sniping at the presenters taste in clothing, presentation background, or speech idiosyncrasies? What you should be doing is asking yourself one very important question - What is this presenter doing that is not keeping your attention, or rather what could they do to keep your attention?</p>
 <p>See as a sometime presenter I find myself analysing what good and poor presenters do. I find myself looking to see what is irritating me, whether it be the presenters suit, or the way she keeps swearing, or the number of times he says "Um".</p>
 <p>Here are some of the things that can cause bad presentation style, and what I do to avoid it</p>
+<!--more-->
 <h2>Lack of preparation</h2>
 <p>Probably the most common error I see is that you get the feeling that the speaker doesn't know the topic or appears to have given very little thought to the presentation itself.</p>
 <p>This boils down to two forms of preparation, subject preparation and presentation preparation.</p>

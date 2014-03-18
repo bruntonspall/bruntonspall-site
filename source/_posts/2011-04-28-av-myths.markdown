@@ -62,6 +62,7 @@ comments:
 <p>I've been thinking about the AV question a lot recently, partly because it's happening here and now, partly because it's naturally been the talk of the office and partly because I find the whole area quite fascinating.</p>
 <p>People seem to fall into one of 2 categories, either they have a strong opinion, or they aren't interested.  Those of a strong opinion appear to refuse to be convinced either way, and those who don't really care probably wont vote anyway.  Despite this there has been a lot of media coverage, political talking and leaflets that have tried to convince people one way or the other.</p>
 <p>Personally, I'm all for AV and leaflets like the <a href="http://imgur.com/a/hgmbQ" target="_blank">recent no to av leaflet</a> made me even more convinced to vote yes to AV, but a discussion with one of my brighter friends who is opposed has made me realise that I need more than a gut feeling for why I'm voting yes.</p>
+<!--more-->
 <p>Firstly, much of what the politicians are saying is complete rubbish, and that's sadly from both sides.  Both systems give each person one vote, both have possibilities to be unfair and I'm not really sure what that word "fair" even means for a voting system.</p>
 <p>However there are a few things that I think are valid criticisms, and deserve to be addressed</p>
 <h2>1. AV will negate tactical voting</h2>

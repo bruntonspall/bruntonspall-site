@@ -94,6 +94,7 @@ comments:
 <p><em>Note: This post was written when this blog was hosted on a custom written blog engine.  I've since moved back to wordpress so some details refering to this site may no longer be accurate. - MBS</em></p>
 <p>I've been lucky enough over the last couple of weeks to have early access to the twitter <a href="http://dev.twitter.com">anywhere</a> platform and with the eminent <a href="http://jaggeree.com">Chris Thorpe</a> (@jaggeree) build a few prototype that we could use with twitter anywhere.</p>
 <p>I thought it might be a nice start to write a simple blog post detailing an introduction to the first few features of twitter anywhere.</p>
+<!--more-->
 <p>Twitter anywhere is a service, provided by twitter that allows you to get access to twitter details in the webpage.  Written in Javascript, and hosted via IFrame's in your site, it allows frictionless access to twitter.</p>
 <h2>Getting started</h2>
 <p>First you need to sign up at http://dev.twitter.com/anywhere/apps/new and create a twitter client application.</p>

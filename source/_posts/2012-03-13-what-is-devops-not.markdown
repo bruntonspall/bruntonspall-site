@@ -47,6 +47,8 @@ comments:
 ---
 <p>I've spent the last two weeks at conferences, and for some reason people keep assuming that I work in operations.  I can kind of understand why, but it's also started a number of conversations about DevOps, and the complete misunderstanding of the term.  It seems that DevOps is a confusing movement for people, and lots of people are assuming that some of the practices that might come with organisations embracing DevOps are themselves what make you DevOps.</p>
 <p>Defining what devops is can be hard, so instead I thought I'd feature a few of the things that devops isn't.<a id="more"></a><a id="more-2153"></a></p>
+<!--more-->
+
 <p>## "I've renamed our Ops team the DevOps team"</p>
 <p>This is not DevOps, you've renamed your operations team, but that is all!  You may as well print a million pound note or command the sea to stop for all the good it will do.</p>
 <p>## "But our devops team run puppet/chef/CFEngine to manage their systems"</p>

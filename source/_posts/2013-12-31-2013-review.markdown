@@ -21,6 +21,7 @@ comments: []
 ---
 <p>It's the new year, and as should be typical, it's probably time to write an update on my blog about what I've done this year.</p>
 <p>It's been an interesting year. After 6 years of working at the Guardian, I felt it was time to move on to a job as an Architect at the Government Digital Service.</p>
+<!--more-->
 <p>My focus at the new job has been on the Transformation program, or helping departments to replicate what the Government Digital Service. That has meant a lot of travel, I've spent 4 days a week in Birmingham for most of October thought December, and I expect to spend at least 3 days a week in Coventry and Birmingham until April this coming year.<br />
 That's meant a bunch of changes in the way we work as a family this year, since I've been away a lot more, and it's been tricky to navigate all of the issues.<br />
 One of the good things of this has been to focus my attention on the time that I spend with my family. Previously I was a pretty absent parent and husband, always on my phone or laptop and not really paying attention. Since the new job and the travel, I've been trying to pay more attention to the family when I'm around. I think that's a pretty good plus point.</p>

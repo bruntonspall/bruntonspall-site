@@ -20,6 +20,7 @@ comments: []
 <p>So a couple of days ago Google launched <a href="http://plus.google.com" target="_blank">Google+</a>, a product that did not slip out quietly it seems despite Google’s intentions.</p>
 <p>You’ve probably read journalists who love it and journalists that hated it, but since the cat appears to be out of the bag and the invitations are flowing fast and furious I thought I’d write a quick few bits about how to get started using it.</p>
 <p>First of all your invitation.  If somebody you know has invited you, there’s a good chance that you didn’t realise it was an invitation.  There are 2 forms of invitation.</p>
+<!--more-->
 <p>As a "member of the press" (by association not directly) I got a real invitation from the Google PR team, which appeared to come from one of our developers.  It looked a bit like this and it was a real invitation.</p>
 <p>[caption id="attachment_660" align="alignnone" width="300" caption="A real full invite"]<a href="http://www.brunton-spall.co.uk/wp-content/uploads/2011/07/Google+-An-Invite-4.jpg"><img class="size-medium wp-image-660" title="Google+ - An Invite" src="http://www.brunton-spall.co.uk/wp-content/uploads/2011/07/Google+-An-Invite-4-300x266.jpg" alt="" width="300" height="266" /></a>[/caption]</p>
 <p><a href="http://www.brunton-spall.co.uk/wp-content/uploads/2011/07/Google+-An-Invite-4.jpg"></a>You can see clearly that it is an invitation and you can sign up from the mail easily.</p>

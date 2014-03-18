@@ -22,6 +22,8 @@ comments: []
 <p>	Did you see my link a few days ago, about <a href="http://www.jetbrains.net/confluence/display/PYH/JetBrains+PyCharm+Preview" target="_blank">PyCharm</a> being released by JetBrains? &nbsp;I hope so because it is a very interesting IDE for python and <a href="http://www.djangoproject.com" target="_blank">django</a> developers.</p>
 <h2>	Introduction</h2>
 <p>	PyCharm attempts to up the Python IDE stakes, by bringing the expertise of the rather brilliant IntelliJ Java IDE to the python world. The idea is nice, and the execution is good, especially with the Django integration.</p>
+<!--more-->
+
 <h2>	Installation</h2>
 <p>	Installation was as simple as downloading the linux tar.gz file and extracting it.</p>
 <p>	My first issue was that on a 64 bit system, it fails to start up with the message&nbsp;</p>

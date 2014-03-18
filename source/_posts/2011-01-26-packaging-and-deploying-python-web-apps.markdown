@@ -153,6 +153,8 @@ comments:
 <p><!-- p, li { white-space: pre-wrap; } --><!--StartFragment-->I love python.  I have really started to get into python in a big way since I was a beta tester for <a href="http://code.google.com/appengine/">Google's App Engine</a>, and I've used it for a number of production projects now.  It is probably my go to quick language.</p>
 <p>Unfortunately I started my career programming C and C++ and moved onto Java, which is the primary language where I work.</p>
 <p>I could say a number of bad things about Java, from it's "Enterprise" mentality, to its love affair with XML in all of it's most horrid incarnations, but the best thing about Java is the ease of deployment of a web application.</p>
+<!--more-->
+
 <p>You see I am a fairly simple guy, I like my life easy and uncomplicated (or pragmatic if you prefer), and one of the things that Java gives me is a simple standard for a web application.  I put all of my compiled class files into the classes directory, add the binary library files to the lib directory, add a web.xml file in the WEB-INF directory and zip it up and rename it to a war file (or I use a tool that does that for me, like <a href="http://maven.apache.org/">Maven</a>, <a href="http://ant.apache.org/">Ant</a> or <a href="http://code.google.com/p/simple-build-tool/">sbt</a>).</p>
 <p>This process is so simple that I can do it reliably, repeatably and I can even configure my <a href="http://www.jetbrains.com/teamcity/">continuous integration</a> server to do it for me.  Now I don't even have to worry about the process, I just commit my files and I get a war file uploaded into my artifact repository.</p>
 <p>Tonight I struggled for hours to get a simple python web application uploaded and running on a web server.</p>
