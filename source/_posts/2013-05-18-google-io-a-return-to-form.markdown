@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: A return to form for Google IO
+featured_page: /images/uploads/2013/05/8748865155_d539b015ef_b-300x225.jpg
 author: Michael Brunton-Spall
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk

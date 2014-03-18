@@ -4,6 +4,7 @@ status: publish
 published: true
 title: Scale Camp - A Brief History
 author: Michael Brunton-Spall
+featured_image: /images/uploads/2014/01/4159325618_892e9c2e16_b-300x199.jpg
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
 author_url: http://www.brunton-spall.co.uk

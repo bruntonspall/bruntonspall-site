@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: ! 'Prism and NSA Spying: why I don''t (entirely) believe it.'
+featured_image: /images/uploads/2013/06/2321658066_d6108e4d77_o-300x212.jpg
 author: Michael Brunton-Spall
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
@@ -237,7 +238,7 @@ comments:
 <p>[EDIT: Note, I have absolutely no inside knowledge here whatsoever. I haven't seen anything except via the stuff the Guardian has published publically.]</p>
 <p>You may have read this morning that the Guardian and the Washington Post announced that they had an authenticated NSA training presentation on PRISM which claimed that they had access to multiple large companies servers and were able to spy on any and all communications.</p>
 <p>In essence the presentation says that Gmail, Apple iMessage, Facebook and most of the other internet services are all actively monitored by the NSA.</p>
-<p>[caption id="attachment_7292" align="aligncenter" width="300"]<a href="http://www.flickr.com/photos/55785940@N00/2321658066/in/photolist-4xa74m-4yaqfh-4AGcmr-4BeTAZ-4E3rMr-4F6k5X-4G72V3-4JDFzx-4KJKkc-4LYYyV-4TnS4k-4VGFPd-4WSNF1-514Apg-52cgGu-58ekFc-5dpCs1-5fAu6j-5oCEVt-5wERaF-5zogA3-5HLJQm-5P44v6-5P4EMP-5SuTSe-5SAxAC-5SAxM3-5SKhw6-5Ugzem-5VRVei-5WcbfL-5WqSdr-5Zn6Jj-61BPM2-62vpib-63a6Fs-651TZp-69FfEo-6ftHvu-6jPAxH-6kewcL-6n8bQ6-6ncmBY-6sMdtf-6HxHyn-6Ro2ap-6WaWqb-73ZsaU-76K6SF-76P1Cb-77gmAW"><img class=" wp-image-7292 " alt="Prism by Tim Cummins" src="http://www.brunton-spall.co.uk/wp-content/uploads/2013/06/2321658066_d6108e4d77_o-300x212.jpg" width="300" height="212" /></a> Prism by Tim Cummins[/caption]</p>
+{% img /images/uploads/2013/06/2321658066_d6108e4d77_o-300x212.jpg Prism by Tim Cummins %}
 <!--more-->
 <p>The thing is, I don't believe it. I have a number of issues with it, but it boils down to two possibilities: that the presentation itself is fake; that the presentation and project are real, but the details are wrong.</p>
 <p>I thought the presentation itself was fake at first, for a whole number of reasons, but I'm confident that the verification process at the Guardian is thorough enough to assuage my worries.</p>
