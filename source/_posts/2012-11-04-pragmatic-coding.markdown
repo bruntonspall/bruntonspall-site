@@ -3,6 +3,11 @@ layout: post
 status: publish
 published: true
 title: Pragmatic Coding
+featured:
+  preview: /images/uploads/2012/11/pragmatic-300x199.jpg
+  large: /images/uploads/2012/11/pragmatic.jpg
+  caption: YIP day 231 by auntiep
+  url: http://www.flickr.com/photos/auntiep/3860676374/
 author: Michael Brunton-Spall
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
@@ -19,7 +24,7 @@ tags:
 - appengine
 comments: []
 ---
-<p><a href="http://www.flickr.com/photos/auntiep/3860676374/"><img class="alignleft size-medium wp-image-4541" title="YIP day 231 by auntiep" src="http://www.brunton-spall.co.uk/wp-content/uploads/2012/11/pragmatic-300x199.jpg" alt="" width="300" height="199" /></a>At its core, pragmatic development is about getting code written, getting it deployed and getting it out there.  Pragmatism should lead us towards minimum viable products, and releasing the minimum that we do have as early as possible to garner the quickest and best feedback.</p>
+<p>>At its core, pragmatic development is about getting code written, getting it deployed and getting it out there.  Pragmatism should lead us towards minimum viable products, and releasing the minimum that we do have as early as possible to garner the quickest and best feedback.</p>
 <p>What do I think pragmatic code actually looks like though?  I figured I'd talk about a very simple app that I built recently to explain why I wrote that code and what it does.</p>
 <!--more-->
 

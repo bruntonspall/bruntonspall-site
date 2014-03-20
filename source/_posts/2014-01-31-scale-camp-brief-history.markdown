@@ -9,11 +9,7 @@ featured:
   large: /images/uploads/2014/01/4159325618_892e9c2e16_b.jpg
   caption: Scale Camp Attendees by Adewale Oshineye
   url: http://www.flickr.com/photos/adewale_oshineye/4159325618
-
-featured_image: /images/uploads/2014/01/4159325618_892e9c2e16_b-300x199.jpg
-featured_image_caption: Scale Camp Attendees by Adewale Oshineye
-featured_image_url: http://www.flickr.com/photos/adewale_oshineye/4159325618
-featured_image_large: /images/uploads/2014/01/4159325618_892e9c2e16_b.jpg
+permalink: /post/2014/01/31/scale-camp-brief-history/
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
 author_url: http://www.brunton-spall.co.uk
@@ -49,7 +45,8 @@ comments: []
 <p>That meant that we would have a strong core of experience people able to lead and initiate conversations, and a smaller group of people who may have stuff to contribute, but will also learn from the event.</p>
 <h2>On the day</h2>
 <p>On the day itself, we had a larger than expected turnout, most people estimate that free unconference events have somewhere between a 30% and 50% dropout rate, we had more people turn up on the day than had booked, or had room to fit!</p>
-<p><a href="http://www.flickr.com/photos/adewale_oshineye/4159325618"><img class="aligncenter size-full wp-image-10140" alt="Scale Camp Attendees by Adewale Oshineye" src="http://www.brunton-spall.co.uk/wp-content/uploads/2014/01/4159325618_892e9c2e16_b.jpg" width="1024" height="681" /></a></p>
+
+<p><a href="http://www.flickr.com/photos/adewale_oshineye/4159325618">{% img /uploads/2014/01/4159325618_892e9c2e16_b.jpg 1024 681 "Scale Camp Attendees by Adewale Oshineye" %}</a></p>
 <p>This photo, <a href="http://www.flickr.com/photos/adewale_oshineye/4159325618">taken by Adewale</a>, to me summed up the event, instead of a room full of people on their laptops with an expert at the front talking, you can see a a group of people gathered around talking together about a topic.  Some of the faces might be familiar, some wont be, but everyone is paying attention and everybody is engaged.</p>
 <p>The feedback we got was brilliant, lots of people commented on what a good event it was, and the most common negative feedback was that there was too many good sessions that people felt they missed out on far too much by not being able to attend all of the sessions. In my opinion, almost none of the "greatness" of the event came from my organisation or the event skeleton itself, but because we carefully curated a list of people who didn't know each other well, had enough experience to engage well in discussion, and who were all experienced enough to learn from each other.</p>
 <h2>Scale Summit</h2>

@@ -3,7 +3,11 @@ layout: post
 status: publish
 published: true
 title: Map, map and flatMap in Scala
-featured_image: /images/uploads/2011/12/1464056042_169a1b6a14_z-300x199.jpg
+featured:
+  preview: /images/uploads/2011/12/1464056042_169a1b6a14_z-300x199.jpg
+  large: /images/uploads/2011/12/1464056042_169a1b6a14_z.jpeg
+  caption: Scala (stairs) by Paolo Campioni
+  url: [TO BE MIGRATED]
 author: Michael Brunton-Spall
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
@@ -14,6 +18,7 @@ date: '2011-12-02 10:56:39 +0000'
 date_gmt: '2011-12-02 10:56:39 +0000'
 categories:
 - technical
+- featured
 tags:
 - scala
 - learning
@@ -253,7 +258,6 @@ comments:
 
 '
 ---
-{% img /images/uploads/2011/12/1464056042_169a1b6a14_z.jpeg 960 "Scala (stairs) by Paolo Campioni" %}
 <p>One of the things I like about Scala is it's collections framework. As a non CS graduate I only very lightly covered functional programming at university and I'd never come across it until Scala. One the benefits of Scala is that the functional programming concepts can be introduced slowly to the programmer. One of the first places you'll start to use functional constructs is with the collections framework.</p>
 <p>Chances are your first collection will be a list of items and we might want to apply a function to each item in the list in some way.</p>
 <!--more-->

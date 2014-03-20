@@ -3,7 +3,11 @@ layout: post
 status: publish
 published: true
 title: A return to form for Google IO
-featured_page: /images/uploads/2013/05/8748865155_d539b015ef_b-300x225.jpg
+featured:
+  preview: /images/uploads/2013/05/8748865155_d539b015ef_b-300x225.jpg
+  large: /images/uploads/2013/05/8748865155_d539b015ef_b.jpg
+  url: http://www.flickr.com/photos/fumi/8748865155/
+  caption: Google IO Glass Office Hours - By Fumi
 author: Michael Brunton-Spall
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
@@ -19,7 +23,6 @@ tags:
 - google
 comments: []
 ---
-<p>[caption id="attachment_7038" align="alignleft" width="300"]<a href="http://www.flickr.com/photos/fumi/8748865155/"><img class="size-medium wp-image-7038" alt="Google IO Glass Office Hours - By Fumi" src="http://www.brunton-spall.co.uk/wp-content/uploads/2013/05/8748865155_d539b015ef_b-300x225.jpg" width="300" height="225" /></a> Google IO Glass Office Hours - By Fumi[/caption]</p>
 <p>Google IO Keynote was watched by nearly a million people, six thousand of them in the auditorium, and the sense of disappointment in some cases was palpable.</p>
 <p>Already we are seeing pundits talking about how Google didn't make any really big announcements, that they didn't give away enough free stuff, and that Google IO isn't as good as last year.</p>
 <p>I believe that Google is simply returning to form, in that IO and Google developer relations is about developers, APIs and services, not products and people.</p>

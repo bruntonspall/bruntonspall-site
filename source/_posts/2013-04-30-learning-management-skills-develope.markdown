@@ -3,7 +3,12 @@ layout: post
 status: publish
 published: true
 title: Learning management skills as a developer
-featured_image: /images/uploads/2013/04/2623633694_f99faa1466_b-300x228.jpg
+featured:
+  preview: /images/uploads/2013/04/2623633694_f99faa1466_b-300x228.jpg
+  large: /images/uploads/2013/04/2623633694_f99faa1466_b.jpg
+  caption: Flow by vankuso
+  url: [TO BE MIGRATED]
+
 author: Michael Brunton-Spall
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
@@ -309,7 +314,6 @@ comments:
 ---
 <p>I'm embarking on a program to build up my management skills and learn more about what the business that I work in actually does. To achieve that I'm reading some classic management books. Why?? Because I've realised that I have a hole in my education. I know surprisingly little about Sales and Marketing; Business Management, Facility management; Supply chains; procurement and the various other things that happen in a business. I'm trying to fix that, and I'm trying to build respect for the people in my organisation who do those jobs.</p>
 ## Why should I learn management skills?
-{% img /images/uploads/2013/04/2623633694_f99faa1466_b-300x228.jpg Flow by vankuso %}
 <!--more-->
 <p>So why bother learning this stuff at all? I mean us developers often deride or look down on marketing droids, and the fat cat layer at the top of an organisation right?</p>
 <p>I've recently come to the conclusion that much of our time as developers is being completely wasted writing software that someone has told us is important. &nbsp;Agile Development is supposed to help with this, ensuring that we are more connected with the business owners and therefore only writing software that is important. &nbsp;But in a large organisation, your business owner may not really be aware of what the company strategy is, or whether their project is the right thing to do.</p>

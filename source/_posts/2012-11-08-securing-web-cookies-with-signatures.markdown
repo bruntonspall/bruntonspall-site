@@ -3,6 +3,11 @@ layout: post
 status: publish
 published: true
 title: Securing web cookies with signatures
+featured:
+  preview: /images/uploads/2012/11/cookies-300x225.jpg
+  large: /images/uploads/2012/11/cookies.jpg
+  caption: cookie for elsa by Marshsu
+  url: http://www.flickr.com/photos/marshsu/27342366
 author: Michael Brunton-Spall
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
@@ -45,10 +50,9 @@ comments:
 
 '
 ---
-<p><a href="http://www.flickr.com/photos/marshsu/27342366"><br class="Apple-interchange-newline" /><img class="alignleft size-medium wp-image-4620" title="cookie for elsa by Marshsu" src="http://www.brunton-spall.co.uk/wp-content/uploads/2012/11/cookies-300x225.jpg" alt="Cookies on a napkin" width="300" height="225" /></a></p>
-<p><em>[Update: <a href="http://twitter.com/jabley">James Abley</a> points out via twitter that there is no mention of <a href="http://vudang.com/2012/03/md5-length-extension-attack/" target="_blank">MD5/HMAC extension attacks</a> here.  I'd love to claim it was deliberate, but was actually because I hadn't thought of them as connected with this.  I've added a postscript to try to address them]</em></p>
 <p>How can you authenticate a user in a web system with a "Shared-Nothing" architecture when you are not sure what webserver you'll come back to for any given request?</p>
 <!--more-->
+<p><em>[Update: <a href="http://twitter.com/jabley">James Abley</a> points out via twitter that there is no mention of <a href="http://vudang.com/2012/03/md5-length-extension-attack/" target="_blank">MD5/HMAC extension attacks</a> here.  I'd love to claim it was deliberate, but was actually because I hadn't thought of them as connected with this.  I've added a postscript to try to address them]</em></p>
 <p>Let's assume that you are happy to use cookies.</p>
 <ol>
 <li>Make a request to a protected resource (lets say /article/create), get detected as unauthenticated and therefore unauthorised and get redirected to our login page, /login</li>

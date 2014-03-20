@@ -3,6 +3,11 @@ layout: post
 status: publish
 published: true
 title: Functionally Pragmatic
+featured:
+  preview: /images/uploads/2012/11/mbs-1024-300x199.jpg
+  large: /images/uploads/2012/11/mbs-1024.jpg
+  caption: Michael Brunton-Spall by Adewale Oshineye
+  url: [TO BE MIGRATED]
 author: Michael Brunton-Spall
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
@@ -21,7 +26,6 @@ tags:
 - pragmatism
 comments: []
 ---
-<p>[caption id="attachment_4516" align="alignleft" width="300"]<a href="http://www.brunton-spall.co.uk/wp-content/uploads/2012/11/mbs-1024.jpg"><img class="size-medium wp-image-4516" title="Michael Brunton-Spall" src="http://www.brunton-spall.co.uk/wp-content/uploads/2012/11/mbs-1024-300x199.jpg" alt="Michael Brunton-Spall by Adewale Oshineye" width="300" height="199" /></a> Michael Brunton-Spall by Adewale Oshineye[/caption]</p>
 <p>I was lucky enough to <a href="https://speakerdeck.com/bruntonspall/functionally-pragmatic-fp-days-cambridge-2012" target="_blank">give the keynote</a> at <a href="http://www.fpdays.net/fpdays2012/" target="_blank">FP Days Cambridge</a> last week, where I was able to wax enthusiastically about functional programming and the future of software development.</p>
 <!--more-->
 <p>The slides themselves are up on SpeakerDeck, and there's a video that will be coming out in a few months.  In the meantime here's a very brief overview of my thoughts.</p>

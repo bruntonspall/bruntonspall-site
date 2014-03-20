@@ -4,7 +4,11 @@ status: publish
 published: true
 title: 2013 In Review
 author: Michael Brunton-Spall
-featured_image: /images/uploads/2013/12/5524669257_c5eefe7205_o-300x146.jpg
+featured:
+  preview: /images/uploads/2013/12/5524669257_c5eefe7205_o-300x146.jpg
+  large: /images/uploads/2013/12/5524669257_c5eefe7205_o.jpg
+  caption: [TO BE MIGRATED]
+  url: [TO BE MIGRATED]
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
 author_url: http://www.brunton-spall.co.uk

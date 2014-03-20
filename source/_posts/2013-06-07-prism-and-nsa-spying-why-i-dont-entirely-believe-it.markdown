@@ -3,13 +3,17 @@ layout: post
 status: publish
 published: true
 title: ! 'Prism and NSA Spying: why I don''t (entirely) believe it.'
-featured_image: /images/uploads/2013/06/2321658066_d6108e4d77_o-300x212.jpg
 author: Michael Brunton-Spall
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
 author_url: http://www.brunton-spall.co.uk
 wordpress_id: 7286
 wordpress_url: http://www.brunton-spall.co.uk/?p=7286
+featured:
+  preview: /images/uploads/2013/06/2321658066_d6108e4d77_o-300x212.jpg
+  caption: Prism by Tim Cummins
+  url: [TO BE MIGRATED]
+  large: /images/uploads/2013/06/2321658066_d6108e4d77_o.jpg
 date: '2013-06-07 12:10:02 +0000'
 date_gmt: '2013-06-07 12:10:02 +0000'
 categories:
@@ -238,7 +242,6 @@ comments:
 <p>[EDIT: Note, I have absolutely no inside knowledge here whatsoever. I haven't seen anything except via the stuff the Guardian has published publically.]</p>
 <p>You may have read this morning that the Guardian and the Washington Post announced that they had an authenticated NSA training presentation on PRISM which claimed that they had access to multiple large companies servers and were able to spy on any and all communications.</p>
 <p>In essence the presentation says that Gmail, Apple iMessage, Facebook and most of the other internet services are all actively monitored by the NSA.</p>
-{% img /images/uploads/2013/06/2321658066_d6108e4d77_o-300x212.jpg Prism by Tim Cummins %}
 <!--more-->
 <p>The thing is, I don't believe it. I have a number of issues with it, but it boils down to two possibilities: that the presentation itself is fake; that the presentation and project are real, but the details are wrong.</p>
 <p>I thought the presentation itself was fake at first, for a whole number of reasons, but I'm confident that the verification process at the Guardian is thorough enough to assuage my worries.</p>

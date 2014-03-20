@@ -19,7 +19,6 @@ date: '2012-04-09 14:57:47 +0000'
 date_gmt: '2012-04-09 14:57:47 +0000'
 categories:
 - personal
-- featured
 tags:
 - personal
 - dieting
@@ -120,7 +119,7 @@ comments:
 <p>This leaves me only three choices, join a gym, start a diet or accept being that fat geek!</p>
 <!--more-->
 
-<p><a id="more"></a><a id="more-2445"></a>I kept considering joining a gym, but I'm not a terribly motivated person, except by money, and a gym seems like a lot of effort and costs a lot of money, so it's out for both those reasons. I've tried belonging to a gym before, but the time commitment is something I'd find hard to keep up, if I could find one at or nearby work that I could use at lunchtimes, maybe I'd go for it.</p>
+<p>I kept considering joining a gym, but I'm not a terribly motivated person, except by money, and a gym seems like a lot of effort and costs a lot of money, so it's out for both those reasons. I've tried belonging to a gym before, but the time commitment is something I'd find hard to keep up, if I could find one at or nearby work that I could use at lunchtimes, maybe I'd go for it.</p>
 <p>Anyway that left me with dieting, but a lot of diets require willpower, dedication and effort, none of which I have in vast quantities. I was speaking to my friend <a href="http://revdancatt.com/" target="_blank">Dan Catt</a> about it recently when he was regaling me with details of his diet. He'd lost of a lot of weight on the diet, but it was one of these extreme diets, where you go into ketosis, and your body starts eating itself to keep your energy levels up. Besides sounding awful it comes with a lot of side effects that I didn't really want, and worst, if you slipped up and ate one single thing that was not on the diet, your body would drop out of ketosis, and you'd take a few days to get back in, which meant hunger, headaches, dizziness and nausea all over again. No thanks to that!</p>
 <p>But it got me thinking, maybe I could just reduce my calorie intake, and see how that would go. Luckily Dan (or possibly somebody else, we don't know who) had a whole bunch of <a href="http://www.cambridgeweightplan.com/" target="_blank">Cambridge Weight Plan</a> milkshakes left, and swapping out a great cooked lunch for a milkshake sounded unappatising, but at least doable. Note that the shakes are essentially unpurchasable unless you are seing their nutritionists. Their recommended diet is the uber extreme diet, which I wouldn't recommend even trying if you are anything like me. I'm running out, so I'm going to try some weight watchers shakes, or might have to hunt around for some good meal replacement shakes.</p>
 <p>But before I started my diet, I needed to find out what I was actually eating. This is the essence of being a good developer, measure everything and most iportantly measure before you act. Ideally I wanted 24/7 ganglia monitoring of all the respective statistics of my body, but I figured I'd start with just two simple emasurements.</p>
