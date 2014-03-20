@@ -4,7 +4,16 @@ status: publish
 published: true
 title: Scale Camp - A Brief History
 author: Michael Brunton-Spall
+featured:
+  preview: /images/uploads/2014/01/4159325618_892e9c2e16_b-300x199.jpg
+  large: /images/uploads/2014/01/4159325618_892e9c2e16_b.jpg
+  caption: Scale Camp Attendees by Adewale Oshineye
+  url: http://www.flickr.com/photos/adewale_oshineye/4159325618
+
 featured_image: /images/uploads/2014/01/4159325618_892e9c2e16_b-300x199.jpg
+featured_image_caption: Scale Camp Attendees by Adewale Oshineye
+featured_image_url: http://www.flickr.com/photos/adewale_oshineye/4159325618
+featured_image_large: /images/uploads/2014/01/4159325618_892e9c2e16_b.jpg
 author_login: bruntonspall
 author_email: michael@brunton-spall.co.uk
 author_url: http://www.brunton-spall.co.uk

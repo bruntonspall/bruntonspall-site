@@ -348,6 +348,5 @@ One of the benefits of being a digital native and developer is that we are used 
 <p>I haven't read these yet, so I'm working on reading through them, and I'll try to produce a review for each book, and I'd love to get recommendations on classic books to read, particularly books that aren't on general management techniques or Agile focused. I'll try to come back and update this post with a better list as I get more books on my to read list.</p>
 ### Buy these books from Amazon
 
-<script charset="utf-8" type="text/javascript" src="http://ws.amazon.co.uk/widgets/q?rt=ss_mfw&amp;ServiceVersion=20070822&amp;MarketPlace=GB&amp;ID=V20070822/GB/michbrunspalo-21/8001/b933c8d5-d670-45f1-add2-8b29bcc714d4">// <![CDATA[</p>
-<p>// ]]></script>
-<noscript>&amp;amp;lt;A HREF="http://ws.amazon.co.uk/widgets/q?rt=ss_mfw&amp;amp;amp;ServiceVersion=20070822&amp;amp;amp;MarketPlace=GB&amp;amp;amp;ID=V20070822%2FGB%2Fmichbrunspalo-21%2F8001%2Fb933c8d5-d670-45f1-add2-8b29bcc714d4&amp;amp;amp;Operation=NoScript"&amp;amp;gt;Amazon.co.uk Widgets&amp;amp;lt;/A&amp;amp;gt;</noscript>
+<script charset="utf-8" type="text/javascript" src="http://ws.amazon.co.uk/widgets/q?rt=ss_mfw&ServiceVersion=20070822&MarketPlace=GB&ID=V20070822/GB/michbrunspalo-21/8001/b933c8d5-d670-45f1-add2-8b29bcc714d4"></script>
+<noscript><A HREF="http://ws.amazon.co.uk/widgets/q?rt=ss_mfw&ServiceVersion=20070822&MarketPlace=GB&ID=V20070822%2FGB%2Fmichbrunspalo-21%2F8001%2Fb933c8d5-d670-45f1-add2-8b29bcc714d4&Operation=NoScript">Amazon.co.uk Widgets</a></noscript>
