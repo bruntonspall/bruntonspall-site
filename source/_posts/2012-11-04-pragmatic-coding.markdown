@@ -22,7 +22,7 @@ categories:
 tags:
 - pragmatism
 - appengine
-comments: []
+comments: true
 ---
 <p>>At its core, pragmatic development is about getting code written, getting it deployed and getting it out there.  Pragmatism should lead us towards minimum viable products, and releasing the minimum that we do have as early as possible to garner the quickest and best feedback.</p>
 <p>What do I think pragmatic code actually looks like though?  I figured I'd talk about a very simple app that I built recently to explain why I wrote that code and what it does.</p>

@@ -16,7 +16,7 @@ categories:
 tags:
 - jquery
 - javascript
-comments: []
+comments: true
 ---
 <p>	A quick one here. &nbsp;I develop most of the functionality to this website when I am offline on the train. &nbsp;I wanted to use the jQuery library on my website, and the most performant way of doing so is to use Googles javascript mirror. (Yes I know about the privacy implications). &nbsp;However that doesn&#39;t work offline, rendering my website into non-jquery mode and making it a bugger to implement jquery features.</p>
 <p>	After removing that call and checking it in a few times by accident I did something I&#39;ve never seen anybody else do.</p>

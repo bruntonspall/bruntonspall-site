@@ -27,7 +27,7 @@ tags:
 - cloud
 - paas
 - training
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 4th</p>
 <ul>

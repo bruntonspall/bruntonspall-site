@@ -18,7 +18,7 @@ tags:
 - conference
 - performance
 - scalability
-comments: []
+comments: true
 ---
 <p>	I&#39;ve been to a fair few conferences recently, and something that has struck me is the large number of people who are dealing with similar issues. &nbsp;How to deal with large numbers of users. how to scale their website to handle peak loads, how to identify what capacity they have for peak loads and so on. &nbsp;The problem here is that although people are talking about it at conferences, and there are a few books around, there isn&#39;t anything dedicated entirely to performance and scalability. &nbsp;The only thing I could find was the <a href="http://en.oreilly.com/velocity2009">Velocity</a> conference, run by O&#39;Reilly over in the states, but over here in London? &nbsp;Nothing that I could find.</p>
 <p>	I first raised this with <a href="http://www.simonwillison.net">Simon Willison</a> soon after he joined the guardian. &nbsp;He, and other colleagues here agreed that a conference would be a good thing, and suggested I might like to organise it.&nbsp; &nbsp;So much for my big mouth!</p>

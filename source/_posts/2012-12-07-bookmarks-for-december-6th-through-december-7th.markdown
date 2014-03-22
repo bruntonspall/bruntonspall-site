@@ -23,7 +23,7 @@ tags:
 - thrift
 - protocol
 - migration
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on December 6th through December 7th:</p>
 <ul>

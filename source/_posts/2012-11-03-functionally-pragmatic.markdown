@@ -24,7 +24,7 @@ tags:
 - scala
 - functional programming
 - pragmatism
-comments: []
+comments: true
 ---
 <p>I was lucky enough to <a href="https://speakerdeck.com/bruntonspall/functionally-pragmatic-fp-days-cambridge-2012" target="_blank">give the keynote</a> at <a href="http://www.fpdays.net/fpdays2012/" target="_blank">FP Days Cambridge</a> last week, where I was able to wax enthusiastically about functional programming and the future of software development.</p>
 <!--more-->

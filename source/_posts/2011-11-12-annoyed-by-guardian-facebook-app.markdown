@@ -17,17 +17,7 @@ tags:
 - facebook
 - bookmarklet
 - guardian
-comments:
-- id: 29
-  author: cold climate
-  author_email: ''
-  author_url: http://twitter.com/coldclimate
-  date: '2011-11-12 17:12:00 +0000'
-  date_gmt: '2011-11-12 17:12:00 +0000'
-  content: ! '<p>Was was actually going to tweet in your direction today to ask who
-    I email at The Guardian about the app.  Problem solved (ish).  Nice hack</p>
-
-'
+comments: true
 ---
 <p>Are your friends sharing links to the Guardian Facebook app in their twitter feeds but you don't use Facebook and want to see the original guardian page?</p>
 <p>Unfortunately due to the way the web (and Facebook) works, if somebody copies the URL in their browser and posts it to twitter you'll be looking at the same thing as them, and if that was a guardian Facebook app, but you haven't logged into Facebook, Facebook wont tell us anything so we can't redirect you back to the guardian.</p>

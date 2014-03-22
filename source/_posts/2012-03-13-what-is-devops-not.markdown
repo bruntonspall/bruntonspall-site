@@ -23,27 +23,7 @@ categories:
 - featured
 tags:
 - devops
-comments:
-- id: 34
-  author: Diego Zamboni
-  author_email: diego@zzamboni.org
-  author_url: http://twitter.com/zzamboni
-  date: '2012-03-12 23:01:00 +0000'
-  date_gmt: '2012-03-12 23:01:00 +0000'
-  content: ! '<p>Good article, thanks. One of the best discussion of DevOps I''ve
-    seen was Ben Rockwood''s keynote at LISA''11: https://www.usenix.org/blog/lisa-11-keynote-devops-transformation</p>
-
-'
-- id: 35
-  author: Michael Brunton-Spall
-  author_email: michael@brunton-spall.co.uk
-  author_url: http://www.brunton-spall.co.uk
-  date: '2012-03-12 23:09:00 +0000'
-  date_gmt: '2012-03-12 23:09:00 +0000'
-  content: ! '<p>Cheers Diego, I haven''t seen that keynote, but the summary makes
-    it look pretty good, so I''ll try to find some time to go watch it sometime.</p>
-
-'
+comments: true
 ---
 <p>I've spent the last two weeks at conferences, and for some reason people keep assuming that I work in operations.  I can kind of understand why, but it's also started a number of conversations about DevOps, and the complete misunderstanding of the term.  It seems that DevOps is a confusing movement for people, and lots of people are assuming that some of the practices that might come with organisations embracing DevOps are themselves what make you DevOps.</p>
 <p>Defining what devops is can be hard, so instead I thought I'd feature a few of the things that devops isn't.</p>

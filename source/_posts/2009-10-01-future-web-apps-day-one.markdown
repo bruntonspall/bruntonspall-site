@@ -20,7 +20,7 @@ tags:
 - ubiquity
 - html5
 - geek nights
-comments: []
+comments: true
 ---
 <p>	So today I&#39;ve been down to London to attend the <a href="http://events.carsonified.com/fowa/2009/london">Future of Web Apps conference</a>, and it has been a fascinating day for me.</p>
 <p>	Firstly, the talks were a suprising variety of business and developer focused.&nbsp; As a developer I often find the business talks &quot;fluffier&quot; and less easy to get my teeth into, but not to the point that I think those are worse talks, just that they are not entirely aimed at me.&nbsp; Some of my fellow attendee&#39;s made their displeasure known on twitter in a very forthright and in my opinion, unprofessional way.</p>

@@ -25,7 +25,7 @@ tags:
 - wordpress
 - bootstrap
 - functional
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 4th through November 5th:</p>
 <ul>

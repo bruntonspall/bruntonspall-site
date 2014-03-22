@@ -16,7 +16,7 @@ categories:
 tags:
 - scala
 - learning
-comments: []
+comments: true
 ---
 <p>I'm currently rewriting the deployment system at the guardian in Scala, and although I'd say I know Scala, I'm learning lots of things as we go.  I'm lucky enough to be pairing with <a href="http://blog.tackley.net/" target="_blank">Graham Tackley</a>, our platform team lead and someone who knows Scala far better than I do, and this means that we often write a bit of code, then go back and improve it and so forth.</p>
 <p>The bit of Scala code I'm particularly proud of is around waiting for a port to be opened.  During our deployment scripts we restart our application servers, then we want the scripts to wait until the server is up and able to serve requests before we move on.</p>

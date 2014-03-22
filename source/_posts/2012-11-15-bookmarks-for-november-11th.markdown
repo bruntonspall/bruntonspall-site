@@ -34,7 +34,7 @@ tags:
 - quality
 - process
 - passion
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 11th through November 14th:</p>
 <ul>

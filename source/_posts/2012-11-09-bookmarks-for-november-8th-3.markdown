@@ -20,7 +20,7 @@ tags:
 - bookmarked
 - journalism
 - webdev
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 8th</p>
 <ul>

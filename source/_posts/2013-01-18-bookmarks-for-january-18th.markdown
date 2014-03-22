@@ -23,7 +23,7 @@ tags:
 - ux
 - futurist
 - ui
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on January 18th</p>
 <ul>

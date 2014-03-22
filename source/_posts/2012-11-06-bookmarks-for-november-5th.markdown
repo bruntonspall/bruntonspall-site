@@ -19,7 +19,7 @@ tags:
 - journalism
 - mooc
 - education
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 5th</p>
 <ul>

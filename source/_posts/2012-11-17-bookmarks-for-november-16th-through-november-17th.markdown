@@ -21,7 +21,7 @@ tags:
 - local
 - redesign
 - feedback
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 16th through November 17th:</p>
 <ul>

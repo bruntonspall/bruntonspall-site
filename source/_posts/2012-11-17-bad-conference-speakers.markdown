@@ -22,7 +22,7 @@ categories:
 - featured
 tags:
 - speaking
-comments: []
+comments: true
 ---
 <p>Are you at a conference and bored? Do you start using the backchannel to start sniping at the presenters taste in clothing, presentation background, or speech idiosyncrasies? What you should be doing is asking yourself one very important question - What is this presenter doing that is not keeping your attention, or rather what could they do to keep your attention?</p>
 <p>See as a sometime presenter I find myself analysing what good and poor presenters do. I find myself looking to see what is irritating me, whether it be the presenters suit, or the way she keeps swearing, or the number of times he says "Um".</p>

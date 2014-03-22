@@ -23,23 +23,7 @@ tags:
 - technology
 - martin belam
 - inside the guardian blog
-comments:
-- id: 12
-  author: IT Companies in India
-  author_email: seoinnoexcel@gmail.com
-  author_url: http://www.innoexcel.com
-  date: '2011-02-14 07:49:00 +0000'
-  date_gmt: '2011-02-14 07:49:00 +0000'
-  content: ! 'Some of you may recognize that as a JSON callback. Basically, they’re
-    using part of their @anywhere system to receive the count and update the button
-    accordingly. '
-- id: 16
-  author: ''
-  author_email: auto78050613@hushmail.com
-  author_url: ''
-  date: '2011-04-28 15:36:00 +0000'
-  date_gmt: '2011-04-28 15:36:00 +0000'
-  content: should bring the guardian a few more readers
+comments: true
 ---
 <p><!-- GUARDIAN WATERMARK -->
 <p><a href="http://www.theguardian.com/help/insideguardian/2010/sep/27/twitter-share-button"><img class="alignright" src="http://image.guardian.co.uk/sys-images/Guardian/Pix/pictures/2010/03/01/poweredbyguardianBLACK.png" alt="Powered by Guardian.co.uk" width="140" height="45" />This article titled "New tweet button on guardian.co.uk" was written by Michael Brunton-Spall and Martin Belam, for theguardian.com on Monday 27th September 2010 15.54 UTC</a></p>

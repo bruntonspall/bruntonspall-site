@@ -22,7 +22,7 @@ tags:
 - leveson
 - hackday
 - gamedev
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 23rd</p>
 <ul>

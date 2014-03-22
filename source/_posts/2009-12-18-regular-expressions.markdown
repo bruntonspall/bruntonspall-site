@@ -18,7 +18,7 @@ tags:
 - open source
 - regular expressions
 - regex-builder
-comments: []
+comments: true
 ---
 <p>	I&#39;m not a big fan of regular expressions. &nbsp;They can be powerful, but for anything remotely complicated they can be a nightmare to maintain and re-read. &nbsp;I had an idea recently for an easy to use chaining regular expression building library but I can&#39;t find anybody doing it, so I&#39;ve created one myself.</p>
 <p>	I&#39;ve borrowed the concept of chaining from the jquery library, so each function on the Regular Expression Builder object returns the modified object. &nbsp;This makes the interface easier to read, and makes constructing a complex object pretty simple.</p>

@@ -19,7 +19,7 @@ tags:
 - the guardian
 - scale camp
 - personal
-comments: []
+comments: true
 ---
 <p>	So as 2009 draws to a close, I look back over the year and consider what has happened. &nbsp;With this being the end of the decade for everyone but pedants (that will be another year yet), I&#39;ve also thought about the previous decade.</p>
 <p>	10 years ago I was halfway through my degree, determined that I would become a famous game designer, or at least be designing with a &nbsp;major games studio. &nbsp;I was still determined not to become a programmer, and instead wanted to spend my days fiddling with excel, scripting langauges and writing design documents and so forth. &nbsp;Fast forward 10 years and I&#39;m now working as a programmer in the web industry, speaking at conferences and even organising conferences like scale camp!</p>

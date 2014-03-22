@@ -24,7 +24,7 @@ tags:
 - jvm
 - injustice
 - launch
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on January 18th through January 23rd:</p>
 <ul>

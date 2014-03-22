@@ -16,7 +16,7 @@ categories:
 tags:
 - speaking
 - conference
-comments: []
+comments: true
 ---
 <p>	What do you do when you are at a conference and bored? &nbsp;Do you start using the backchannel to start sniping at the presenters taste in clothing, presentation background, or speech idiosyncrinisities? &nbsp;I&#39;ve seen this at a number of conferences and I find this to be extremely unprofessional behaviour, especially in a public forum. &nbsp;If you see my twitter feed, you will see that I might object to the content of a presentation, for example my dislike of Objective-C as a language. &nbsp;However to object to a presentation because of the presenters choice of words to describe a fuzzy topic, or the quality of photography in their slides as I saw at a recent conference, is the epitome of rudeness.&nbsp;When somebody who is an expert in their field, has given up their time to attempt to share with you, picking holes in the format of the message rather than the content of the message is small-minded and rude.</p>
 <p>	So what should you be doing? &nbsp;In my opinion what you should be doing is asking yourself one very important question - What is this presenter doing that is not keeping my attention?</p>

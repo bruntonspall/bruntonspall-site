@@ -24,7 +24,7 @@ tags:
 - technology blog
 - google
 - chrome
-comments: []
+comments: true
 ---
 <p>&nbsp;</p>
 <p><!-- GUARDIAN WATERMARK -->

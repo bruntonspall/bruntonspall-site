@@ -18,25 +18,7 @@ tags:
 - nginx
 - google
 - plus
-comments:
-- id: 30
-  author: Stuart Taylor
-  author_email: ''
-  author_url: http://twitter.com/hsiboy
-  date: '2011-11-13 09:18:00 +0000'
-  date_gmt: '2011-11-13 09:18:00 +0000'
-  content: ! '<p>and for those on Apache:
-
-    <pre>
-
-    RewriteEngine On
-
-    RewriteRule ^/?&#043;$ https://plus.google.com/NUMBER<em>PART</em>OF<em>YOUR</em>PROFILE
-    [R=301,L]
-
-    </pre></p>
-
-'
+comments:true
 ---
 <p>A quick one, this morning I've added the plus url to my website, so <a href="http://www.brunton-spall.co.uk/+" target="_blank">http://www.brunton-spall.co.uk/+</a> now redirects to my Google+ profile.</p>
 <p>This, it turns out, is really easy to implement if you run Nginx as the front to your website.</p>

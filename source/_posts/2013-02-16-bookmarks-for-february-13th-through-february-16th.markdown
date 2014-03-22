@@ -24,7 +24,7 @@ tags:
 - gender
 - css
 - markdown
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on February 13th through February 16th:</p>
 <ul>

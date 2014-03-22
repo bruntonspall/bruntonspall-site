@@ -29,7 +29,7 @@ tags:
 - features
 - comment &amp; features
 - g2
-comments: []
+comments: true
 ---
 <p><strong><em>I was foolish enough to talk at length about the gawker hacking story in the morning news conference a few weeks ago, and one of the side effects was that I was interviewed for G2 to give some advice on how to tighten up your password.</em></strong></p>
 <p><strong><em>The advice was designed for the sort of people who currently use 123456 as their password (or even stronger 12345678), and so I didn't include anything about using symbol characters and space and so forth.  I've also found that there are some websites that wont accept unusual characters, and since that makes it harder to remember which sites do and don't, this will still produce a very strong password.</em></strong></p>

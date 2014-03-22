@@ -19,7 +19,7 @@ tags:
 - the future
 - discus
 - diary
-comments: []
+comments: true
 ---
 <p>	So I&#39;ve finally added a couple of new features, so thought I&#39;d pop up a quick explanation of what I did and why.</p>
 <p>	Firstly, you should hopefully have noticed that everything got bigger, a lot bigger. &nbsp;Looking around at a number of websites, and then at mine, I realised that on any screen other than my netbook, I had to squint. &nbsp;For a site that is designed around readable content, that&#39;s a bad thing. &nbsp;Not sure I&#39;m totally happy with how big it is, so let me know if you think it&#39;s ugly big, or nice big.</p>

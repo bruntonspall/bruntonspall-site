@@ -20,7 +20,7 @@ tags:
 - wordpress
 - mongodb
 - design
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 6th</p>
 <ul>

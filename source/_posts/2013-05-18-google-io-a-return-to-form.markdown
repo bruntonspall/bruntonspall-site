@@ -21,7 +21,7 @@ categories:
 - featured
 tags:
 - google
-comments: []
+comments: true
 ---
 <p>Google IO Keynote was watched by nearly a million people, six thousand of them in the auditorium, and the sense of disappointment in some cases was palpable.</p>
 <p>Already we are seeing pundits talking about how Google didn't make any really big announcements, that they didn't give away enough free stuff, and that Google IO isn't as good as last year.</p>

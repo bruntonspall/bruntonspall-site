@@ -23,32 +23,7 @@ tags:
 - web development
 - security
 - cookies
-comments:
-- id: 92
-  author: Xinshu Dong
-  author_email: xinshudong@gmail.com
-  author_url: ''
-  date: '2013-06-11 12:52:00 +0000'
-  date_gmt: '2013-06-11 12:52:00 +0000'
-  content: ! '<p>Very nice piece. Clearly explained how to design secure cookie systems
-    from scratch. One factor you mention is to avoid database query if possible. But
-    if we need anti-csrf tokens, we may need some mapping stored in database anyway.</p>
-
-'
-- id: 100
-  author: Art &amp; Design Inspiration
-  author_email: ''
-  author_url: http://spoon-graphics.co.uk
-  date: '2013-07-16 20:46:22 +0000'
-  date_gmt: '2013-07-16 20:46:22 +0000'
-  content: ! '<p><strong>Hi...</strong></p>
-
-
-    <p>I am often to blogging and i really appreciate your content. The article has
-    really peaks my interest. I am going to bookmark your site and keep checking for
-    new information....</p>
-
-'
+comments: true
 ---
 <p>How can you authenticate a user in a web system with a "Shared-Nothing" architecture when you are not sure what webserver you'll come back to for any given request?</p>
 <!--more-->

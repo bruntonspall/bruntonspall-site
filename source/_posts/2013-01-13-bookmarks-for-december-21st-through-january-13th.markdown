@@ -29,7 +29,7 @@ tags:
 - adacdemia
 - paper
 - scalaz
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on December 21st through January 13th:</p>
 <ul>

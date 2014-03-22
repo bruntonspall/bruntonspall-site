@@ -22,7 +22,7 @@ tags:
 - michael brunton-spall
 - developer blog
 - article
-comments: []
+comments: true
 ---
 <p><a href="http://www.guardian.co.uk/open-platform/blog/scale-camp-2010">This article titled "Announcing Scale Camp 2010" was written by Michael Brunton-Spall, for guardian.co.uk on Wednesday 22nd September 2010 13.47 UTC</a></p>
 <p>It was about this time last year that I <a href="http://www.guardian.co.uk/open-platform/blog/uk-scale-camp">first started thinking</a> about <a href="http://www.scalecamp.org.uk">Scale Camp</a>. If you are into scalability and performance then there aren't many places to go to learn more or meet with your peers.  The main place to go is the<a href="http://en.oreilly.com/velocity2010"> Velocity conference</a> in the US, but for a lot of companies and people over here in Europe, that's a pretty expensive option.  We decided to organise our own unconference all about scalability and host it here in London.</p>

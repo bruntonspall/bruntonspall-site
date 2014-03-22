@@ -24,7 +24,7 @@ tags:
 - social
 - maturity
 - facts
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on February 2nd through February 3rd:</p>
 <ul>

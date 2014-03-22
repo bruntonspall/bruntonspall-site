@@ -25,7 +25,7 @@ tags:
 - academia
 - rest
 - hypermedia
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 9th</p>
 <ul>

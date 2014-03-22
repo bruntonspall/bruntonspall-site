@@ -21,7 +21,7 @@ tags:
 - developers
 - science
 - cto
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on August 10th through November 13th:</p>
 <ul>

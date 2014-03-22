@@ -13,17 +13,7 @@ date: '2010-10-19 22:43:08 +0000'
 date_gmt: '2010-10-19 22:43:08 +0000'
 categories: []
 tags: []
-comments:
-- id: 118
-  author: Sergii
-  author_email: ses.box@gmail.com
-  author_url: ''
-  date: '2013-11-09 21:51:00 +0000'
-  date_gmt: '2013-11-09 21:51:00 +0000'
-  content: ! '<p>fyi: I went here because It was marked as "most popular" in the right
-    panel, was curious why.  That might explain you this human-behaviour pattern :)</p>
-
-'
+comments: true
 ---
 <p>Hi there, welcome to my blog.</p>
 <p>This blog is mostly rantings and occasional thoughtful musings from me, Michael Brunton-Spall.</p>

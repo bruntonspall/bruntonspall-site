@@ -22,7 +22,7 @@ categories:
 tags:
 - '2013'
 - newyear
-comments: []
+comments: true
 ---
 <p>It's the new year, and as should be typical, it's probably time to write an update on my blog about what I've done this year.</p>
 <p>It's been an interesting year. After 6 years of working at the Guardian, I felt it was time to move on to a job as an Architect at the Government Digital Service.</p>

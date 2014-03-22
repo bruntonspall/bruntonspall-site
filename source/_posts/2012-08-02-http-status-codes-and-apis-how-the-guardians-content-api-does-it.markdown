@@ -27,7 +27,7 @@ tags:
 - technology
 - internet
 - web browsers
-comments: []
+comments: true
 ---
 <p>I wrote on JSON and API's on the guardian developer blog recently.</p>
 <hr />

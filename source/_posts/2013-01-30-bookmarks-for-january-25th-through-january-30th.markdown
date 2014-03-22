@@ -24,7 +24,7 @@ tags:
 - criticism
 - apple
 - android
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on January 25th through January 30th:</p>
 <ul>

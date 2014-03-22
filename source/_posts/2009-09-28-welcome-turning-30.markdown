@@ -22,7 +22,7 @@ tags:
 - apache
 - nginx
 - wsgi
-comments: []
+comments: true
 ---
 <p>Most people for their 30th birthday do something to recapture their youth. I went paintballing and created this site.</p>
 <p>This site is going to be my 'blog' as much as I hate the word and term, detailing my thoughts and allowing me to play with some cool technologies.</p>

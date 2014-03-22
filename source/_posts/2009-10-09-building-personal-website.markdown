@@ -19,7 +19,7 @@ tags:
 - the future
 - diary
 - history
-comments: []
+comments: true
 ---
 <p>	One of the requested articles on this site was a comprehensive diary of what went into building this website, and why I did so.&nbsp; Since for shits and giggles wasn&#39;t exactly the answer you wanted, I thought I&#39;d elucidate on why I built this and how I went about it.</p>
 <p>	Essentially this site is here to serve my vanity, to give me a project I can work on with some cool technologies, and to enable me an outlet for some of the articles and opinions that i&#39;ve built up over time.</p>

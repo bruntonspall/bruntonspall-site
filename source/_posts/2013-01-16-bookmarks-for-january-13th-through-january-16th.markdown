@@ -24,7 +24,7 @@ tags:
 - funny
 - maintainability
 - code
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on January 13th through January 16th:</p>
 <ul>

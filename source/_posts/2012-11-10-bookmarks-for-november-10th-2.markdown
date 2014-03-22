@@ -21,7 +21,7 @@ tags:
 - api
 - tools
 - startups
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 10th</p>
 <ul>

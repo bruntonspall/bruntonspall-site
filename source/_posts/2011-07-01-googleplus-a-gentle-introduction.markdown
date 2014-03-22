@@ -15,7 +15,7 @@ categories:
 - featured
 tags:
 - google
-comments: []
+comments: true
 ---
 <p>So a couple of days ago Google launched <a href="http://plus.google.com" target="_blank">Google+</a>, a product that did not slip out quietly it seems despite Google’s intentions.</p>
 <p>You’ve probably read journalists who love it and journalists that hated it, but since the cat appears to be out of the bag and the invitations are flowing fast and furious I thought I’d write a quick few bits about how to get started using it.</p>

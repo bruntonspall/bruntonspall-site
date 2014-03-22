@@ -19,7 +19,7 @@ tags:
 - scala
 - blog
 - bookmarked
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on December 2nd</p>
 <ul>

@@ -35,7 +35,7 @@ tags:
 - iplayer
 - apps
 - audio
-comments: []
+comments: true
 ---
 <p>I blathered on the podcast for a bit again.</p>
 <!--more-->

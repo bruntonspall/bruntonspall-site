@@ -16,7 +16,7 @@ categories:
 tags:
 - identity
 - facebook
-comments: []
+comments: true
 ---
 <p>	The more I think about Facebook Connect and identity the more worried I get. &nbsp;Lets start with my basic premise, your online identity is much too valuable to be controlled by a single company. &nbsp;We&#39;ve been there before, we&#39;ve seen what happens to the internet when a core technology is controlled by a single company, and Internet Explorer 6 was the result.</p>
 <p>	The problem really lies in that as a website developer I can understand exactly why Facebook Connect is so appealing, and in fact why I am likely to end up supporting it on my website for commenting and social web stuff. &nbsp;It&#39;s because facebook have put a lot of effort into ensuring that developing social knowledge applications for your website as easy and rewarding as possible.</p>

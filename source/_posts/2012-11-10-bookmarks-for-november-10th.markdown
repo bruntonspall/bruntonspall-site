@@ -22,7 +22,7 @@ tags:
 - data
 - ec2
 - competition
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 10th</p>
 <ul>

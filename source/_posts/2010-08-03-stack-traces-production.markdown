@@ -16,7 +16,7 @@ categories:
 tags:
 - web development
 - security
-comments: []
+comments: true
 ---
 <p>	There have been a number of incidents recently where a public website I&#39;ve been using has gone wrong shown me a nice server provided stack trace on the screen. &nbsp;The most recent of these examples was the <a href="http://www.cineworld.co.uk">Cineworld website</a>.</p>
 <p>	This is really really bad for a number of reasons.</p>

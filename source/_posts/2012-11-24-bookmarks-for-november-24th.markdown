@@ -20,7 +20,7 @@ tags:
 - aws
 - badmath
 - ux
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 24th</p>
 <ul>

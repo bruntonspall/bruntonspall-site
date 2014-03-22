@@ -21,7 +21,7 @@ tags:
 - superiority
 - database
 - scaling
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 17th through November 18th:</p>
 <ul>

@@ -27,7 +27,7 @@ tags:
 - diagrams
 - conferences
 - speakers
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on May 19th through August 1st:</p>
 <ul>

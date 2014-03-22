@@ -17,7 +17,7 @@ tags:
 - django
 - python
 - pycharm
-comments: []
+comments: true
 ---
 <p>	Did you see my link a few days ago, about <a href="http://www.jetbrains.net/confluence/display/PYH/JetBrains+PyCharm+Preview" target="_blank">PyCharm</a> being released by JetBrains? &nbsp;I hope so because it is a very interesting IDE for python and <a href="http://www.djangoproject.com" target="_blank">django</a> developers.</p>
 <h2>	Introduction</h2>

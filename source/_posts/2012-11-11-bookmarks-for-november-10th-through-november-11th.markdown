@@ -21,7 +21,7 @@ tags:
 - payments
 - startup
 - mvp
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 10th through November 11th:</p>
 <ul>

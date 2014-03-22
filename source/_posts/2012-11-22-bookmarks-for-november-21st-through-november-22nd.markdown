@@ -22,7 +22,7 @@ tags:
 - feedback
 - fiction
 - psychology
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 21st through November 22nd:</p>
 <ul>

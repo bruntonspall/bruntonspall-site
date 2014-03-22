@@ -21,7 +21,7 @@ categories:
 - technical
 - featured
 tags: []
-comments: []
+comments: true
 ---
 <p>In organising the upcoming <a href="http://www.scalesummit.org" target="_blank">Scale Summit</a> unconference, I've been reflecting on the history of Scale Camp, and what the purpose and point of running these events was to me.</p>
 <h2>Velocity Conference starts it all</h2>

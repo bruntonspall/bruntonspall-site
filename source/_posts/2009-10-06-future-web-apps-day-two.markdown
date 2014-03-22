@@ -16,7 +16,7 @@ categories:
 tags:
 - web development
 - fowa
-comments: []
+comments: true
 ---
 <p>	So what was the highlight of the second day of <a href="http://events.carsonified.com/fowa/2009/london/content">FOWA</a> for me?&nbsp; Believe it or not the marketing stuff.&nbsp; We were exhorted, repeatedly, that listening to your customers is the most important thing in business.&nbsp; Something that I&#39;ve forgotten, and something that can be applied to all areas of Software Development.&nbsp; The customer is king, fail to understand what he/she wants and you may as well be building sandcastles for all the good it will do when the tide comes in.&nbsp; </p>
 <p>	So, back to FOWA, first up was Brett from Twitter, who was here to tell us about the future of frontend engineering.&nbsp; Unfortunately again this was a fairly disjointed presentation, with a couple of good points, covering thinking about your javascript and frontend systems as scalable full systems from the start, rather than the way that we often do, which is to consider it an addon, and not managing the system complexity the way we would for any other language or programming area.</p>

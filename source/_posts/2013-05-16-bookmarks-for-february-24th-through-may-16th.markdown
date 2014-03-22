@@ -23,7 +23,7 @@ tags:
 - hackday
 - habits
 - standards
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on February 24th through May 16th:</p>
 <ul>

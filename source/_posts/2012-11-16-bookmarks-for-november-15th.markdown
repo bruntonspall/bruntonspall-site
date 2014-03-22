@@ -29,7 +29,7 @@ tags:
 - priorities
 - webapps
 - product
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 15th</p>
 <ul>

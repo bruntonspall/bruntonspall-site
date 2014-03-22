@@ -21,7 +21,7 @@ tags:
 - bookmarked
 - wordpress
 - digitalcurrency
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 16th</p>
 <ul>

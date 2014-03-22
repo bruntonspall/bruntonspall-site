@@ -16,7 +16,7 @@ categories:
 tags:
 - rant
 - theology
-comments: []
+comments: true
 ---
 <p>	I am a christian and I am proud of the fact. &nbsp;My faith makes it clear that I should be willing to share my faith whenever and wherever I can, but sometimes that can be made hard. &nbsp;Not because of beligerant athiests (most of the most hardcore athiests I know are lovely) but because there are some supposedly Christian organisations that portray the Christian faith in such a bad light that it makes me feel ashamed to be branded as a Christian.</p>
 <p>	Recently an article was written in the Daily Mail by Jan Moir. &nbsp;It had undertones and overtones of shocked moralisation and suggested that Stephen Gately had died an unnatural death simply because of his sexuality and sexual proclivities. &nbsp;But because Jan Moir doesn&#39;t claim to speak for Christians, and although her article was so offensive that it was rapidly retweeted around the internet and caused the Press Complaints Commision&#39;s webserver to crash under high load due to it&#39;s judgmental content, it didn&#39;t cause me any shame.</p>

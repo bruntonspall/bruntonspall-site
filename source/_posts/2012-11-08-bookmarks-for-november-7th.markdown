@@ -30,7 +30,7 @@ tags:
 - inspiration
 - java
 - java8
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 7th</p>
 <ul>

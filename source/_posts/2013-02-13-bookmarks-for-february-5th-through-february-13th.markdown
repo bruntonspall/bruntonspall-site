@@ -23,7 +23,7 @@ tags:
 - browser
 - happy
 - games
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on February 5th through February 13th:</p>
 <ul>

@@ -20,7 +20,7 @@ tags:
 - ecosystem
 - developers
 - datascience
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on November 25th through November 26th:</p>
 <ul>

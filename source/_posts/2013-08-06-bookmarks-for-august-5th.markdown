@@ -29,7 +29,7 @@ tags:
 - wikileaks
 - assange
 - comment
-comments: []
+comments: true
 ---
 <p>Things from around the web, as seen on August 5th</p>
 <ul>
