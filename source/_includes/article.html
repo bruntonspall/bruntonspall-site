@@ -25,7 +25,7 @@
   </header>
 {% endunless %}
 {% if index %}
-  {% if post.featured %}<div class="index-entry-image"><img src="{{ post.featured.preview }}"></div>{% endif %}
+  {% if post.featured %}<figure class="index-entry-image"><img src="{{ post.featured.preview }}" title="{{page.featured.caption}}" alt="{{page.featured.caption}}"></figure>{% endif %}
   <div class="entry-content">{{ content | excerpt }}</div>
   {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
   {% if excerpted == 'true' %}
