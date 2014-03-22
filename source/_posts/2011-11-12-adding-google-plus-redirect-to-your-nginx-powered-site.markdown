@@ -18,7 +18,7 @@ tags:
 - nginx
 - google
 - plus
-comments:true
+comments: true
 ---
 <p>A quick one, this morning I've added the plus url to my website, so <a href="http://www.brunton-spall.co.uk/+" target="_blank">http://www.brunton-spall.co.uk/+</a> now redirects to my Google+ profile.</p>
 <p>This, it turns out, is really easy to implement if you run Nginx as the front to your website.</p>
