@@ -10,10 +10,10 @@
 <meta property="og:type" content="article" />
 <meta property="og:title" content="{{page.title}}" />
 <meta property="og:description" content="{{ description | strip_html | condense_spaces | truncate:150 }}" />
-<meta property="og:url" content="{{ canonical }}" />
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 <meta property="og:site_name" content="{{site.title}}" />
 
-<meta property="article:author" content="bruntonspall" />
+<meta property="article:author" content="https://www.facebook.com/michael.brunton-spall" />
 {% if page.categories %}
   {% for cat in page.categories %}
     <meta property="article:tag" content="{{cat}}" />
@@ -24,11 +24,14 @@
 {% if page.modified %}
   <meta property="article:modified_time" content="{{page.modified}}" />
   <meta property="og:updated_time" content="{{page.modified}}" />
+{% else %}
+<meta property="article:modified_time" content="{{page.date}}" />
+<meta property="og:updated_time" content="{{page.date}}" />
 {% endif %}
 <meta property="fb:admins" content="647747023" />
 {% if page.featured %}
-  <meta property="og:image" content="{{page.featured.large}}" />
-  <meta property="og:image" content="{{page.featured.preview}}" />
+  <meta property="og:image" content="{{ site.url }}{{page.featured.large}}" />
+  <meta property="og:image" content="{{ site.url }}{{page.featured.preview}}" />
 {% endif %}
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:site" content="@bruntonspall"/>
