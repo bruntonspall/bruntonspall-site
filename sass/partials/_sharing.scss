@@ -3,6 +3,10 @@
     padding: { top: 1em; left: 0; }
     background: $img-border top left repeat-x;
   }
+  .fb-like {
+    position: relative;
+    top: -8px;
+  }
 }
 
 #fb-root { display: none; }
