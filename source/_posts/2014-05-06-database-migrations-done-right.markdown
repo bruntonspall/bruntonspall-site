@@ -68,3 +68,17 @@ It does however require thinking about the changes, and breaking them down into 
 However, once you do it, you'll make releases of software much easier (simpler deployments = shorter cycle times = faster throughput generally), and you'll find that thinking about the tasks in this way is actually much easier.
 
 Final thought, is there anytime I wouldn't do this?  I've long said that greenfield projects that are in the early stages don't need to do this, but these days I'm not so sure.  The added benefit we gain from breaking our changes down this way, in terms of the increased throughput, I suspect very early on in development starts to pay dividends, so I'd start working this way pretty early on in the software lifecycle.
+
+## Addendum 1
+
+Simon Jones, below, asked some useful questions, and I replied to him with quite a long response that covers some important points.  It's worth reading in full, but a couple of the main points I made were:
+
+* You should be using a database migration tool for executing the change scripts in a reliable, repeatable way.  I've used [DBDeploy](http://dbdeploy.com) but there are others out there.
+* ORM's that combine the schema and code together inseparably are evil and should be avoided.
+
+Oh and I realised that I forgot to mention to various people who I've discussed this topic at length with over the past few years, [@philwils](https://twitter.com/philwills), [@tackers](https://twitter.com/tackers), [@steppenwells](https://twitter.com/steppenwells) and [@russss](https://twitter.com/russss).
+
+## Addedum 2
+
+Philip Wills pointed out on twitter that I clean forgot to explain one of the key benefits of doing this, and that is to reduce deploy time complexity.
+There's enough stuff to cover there that I'll probably do a second post to explain why you should do it, now that I discussed how to.
