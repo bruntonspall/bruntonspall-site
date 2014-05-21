@@ -16,7 +16,6 @@ categories:
  - technical
  - featured
 ---
-# What are microservices and why are they important?
 Part of the problem with the debate around microservices is that we aren't always arguing about the same definition of microservice, probably because not enough of them have read [James Lewis](https://twitter.com/boicy)'s defining post on [microservices](http://martinfowler.com/articles/microservices.html).  So when two people disagree on the implementation details of the microservice, they can be speaking at cross purposes because they haven't agreed what they are talking about.
 
 Because I'm going to write more about microservices, why I think it's such an important architectural movement, and why I think it ties into other movements, I feel like I need to set out my definition of a microservice, and what things are supporting practices that aren't about microservices, but help to make microservices such a useful pattern
