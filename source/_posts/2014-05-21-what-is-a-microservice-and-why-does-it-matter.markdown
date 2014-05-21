@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is a microservice and why does it matter"
+title: "What are microservices and why are they important"
 date: 2014-05-21 21:47:34 +0100
 comments: true
 author: Michael Brunton-Spall
