@@ -11,7 +11,7 @@ featured:
   url: https://www.flickr.com/photos/hiddenloop/429289122
 
 comments: true
-published: false
+published: true
 categories:
  - technical
  - featured
