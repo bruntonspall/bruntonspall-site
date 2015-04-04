@@ -1,0 +1,6 @@
+.git
+vendor
+source
+.themes
+.sass-cache
+.pygments-cache
