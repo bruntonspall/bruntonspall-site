@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Should I allow different languages or runtimes in my organisation?"
-date: 2015-02-26 09:26:48 +0000
+date: 2015-04-05 00:09:00 +0100
 comments: true
 featured:
   preview: /images/uploads/networking-300x199.jpg
@@ -34,9 +34,9 @@ We looked at scaling our database system, but the estimated cost was multiple mi
 
 What could we do?  We investigated distributed caches.  ehCache at the time did not have any distributed cache functionality, and the options available to us in the javaworld either involved some severe unexplainable black magic or some very J2EE style patterns which we were trying to avoid.  This looked like an insoluble problem.
 
-At about that time, we also bought in (Simon Willison)[https://twitter.com/simonw] to work with us.  Simon had a news background and wanted to work on some of the more exciting news projects that the organisation was doing.  He was bought in because he had experience that the rest of the team did not have, in building simple web applications, front and back, in a very short space of time combined with a news background that would help understand the stories and projects.
+At about that time, we also bought in [Simon Willison](https://twitter.com/simonw) to work with us.  Simon had a news background and wanted to work on some of the more exciting news projects that the organisation was doing.  He was bought in because he had experience that the rest of the team did not have, in building simple web applications, front and back, in a very short space of time combined with a news background that would help understand the stories and projects.
 
-Simon bought with him a new way of approaching problems.  Simon was a python programmer, in fact one of the original team that created the (Django)[http://www.djangoproject.com] project, he was an expert in using a very easy to use, quick framework to create very presentable websites in a short period of time.  That meant that to us, his code was inexplicable, and he used lots of tools that we had never heard of.
+Simon bought with him a new way of approaching problems.  Simon was a python programmer, in fact one of the original team that created the [Django](http://www.djangoproject.com) project, he was an expert in using a very easy to use, quick framework to create very presentable websites in a short period of time.  That meant that to us, his code was inexplicable, and he used lots of tools that we had never heard of.
 
 I was lucky enough to have met Simon a few years prior, as I was a python enthusiast and thus went to the Python UK conferences.  Since I'd never written anything in production in python or attempted to scale it, most of my knowledge was just in the interest of the language, but it meant that I got to chat to him on a regular basis and compare notes for what we were doing.
 
@@ -46,7 +46,7 @@ You see, memcached was the solution to these sorts of problems in a python or ru
 
 In comparison, in the Java world, our application servers didn't restart for 2 weeks, and java controlled the entire process memory space.  This sort of solution was just unneccesary for us, and so we had never heard of it.
 
-We built a (simple cache wrapper)[https://github.com/guardian/simplecache] which we used as an interface for our existing cache layer, and connected to the memcached protocol.  We rolled it out and to our surprise it was a massive success.  All of the application servers could share the same cache, getting massively increased hit rates across the machines.  We still suffered from the long tail problem, but the solution to that is a story for another day.
+We built a [simple cache wrapper](https://github.com/guardian/simplecache) which we used as an interface for our existing cache layer, and connected to the memcached protocol.  We rolled it out and to our surprise it was a massive success.  All of the application servers could share the same cache, getting massively increased hit rates across the machines.  We still suffered from the long tail problem, but the solution to that is a story for another day.
 
 ## Team Culture and other ecosystems
 
