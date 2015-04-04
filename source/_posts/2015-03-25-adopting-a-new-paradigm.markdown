@@ -3,7 +3,8 @@ layout: post
 title: "Adopting a new paradigm"
 date: 2015-03-25 09:05:57 +0000
 comments: true
-categories: 
+published: false
+categories:
 ---
 
 New technologies come along that change the way that we work, operate and build things.  Cloud computing, Containers, Continuous Integration, Continous Deployment, Microservices (see they don't all start with a C) are all examples of this.

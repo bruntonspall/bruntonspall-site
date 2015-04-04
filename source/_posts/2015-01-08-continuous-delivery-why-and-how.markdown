@@ -3,6 +3,7 @@ layout: post
 title: "Continuous Delivery - Why and How"
 date: 2015-01-08 08:49:31 +0000
 comments: true
+published: false
 featured:
   preview: /images/uploads/agile-vs-prince2-300x199.jpg
   large: /images/uploads/agile-vs-prince2.jpg
