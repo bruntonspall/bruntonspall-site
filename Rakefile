@@ -115,6 +115,11 @@ task :new_post, :title do |t, args|
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
     post.puts "comments: true"
     post.puts "categories: "
+    post.puts "featured: "
+    post.puts "  preview: /images/uploads/<image>-300x199.jpg"
+    post.puts "  large: /images/uploads/<image>.jpg"
+    post.puts "  caption: <title> by <username>"
+    post.puts "  url: <url>"
     post.puts "---"
   end
 end
